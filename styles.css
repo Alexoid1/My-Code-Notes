@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
-    background: rgb(216,227,31);
-background: linear-gradient(90deg, rgba(216,227,31,1) 0%, rgba(145,21,55,1) 41%, rgba(0,116,255,1) 100%);
+    background: rgb(238,250,31);
+    background: linear-gradient(90deg, rgba(238,250,31,1) 0%, rgba(145,21,55,1) 75%);
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
