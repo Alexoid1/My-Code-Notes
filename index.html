@@ -19,7 +19,7 @@
 <script>
  
   
-  const tasks="https://gist.githubusercontent.com/Alexoid1/84560fde3e1f61f288d469588a30e663/raw/b20e8f75075e19188332d331ffcb979067a3a40f/notas3.json"
+  const tasks="https://gist.githubusercontent.com/Alexoid1/84560fde3e1f61f288d469588a30e663/raw/60fea773470adc520be086420a46425989ab0578/notas1.json"
   let notes = [];
   fetch(tasks).then(blop => blop.json()).then(data => notes.push(...data))
   function encontrar(palabra, notes){
