@@ -1,7 +1,6 @@
 # My-Code-Notes
 ## My code notes with an autocomplete search bar
-
-
+This is a desktop notes app build with electron that not use a database to store data, instead use a JSON file that store the notes rewriting the file in every new entry.
 
 ![screenshot](./screen.png)
 
@@ -9,19 +8,20 @@ Additional description about the project and its features.
 
 ## Built With
 
-- HTML,
-- JavaScript
+- Electron.js
+- Node
 - Css
-- gists (json)
-## Live Demo
-
-[Live Demo Link](https://alexoid1.github.io/My-Code-Notes/)
 
 
 ## Getting Started
 
-**Navigation bar**
-- Go to (https://alexoid1.github.io/My-Code-Notes/) and have a look around. 
+To get a local copy up and running follow these simple example steps:
+
+- Go to https://github.com/Alexoid1/My-Code-Notes and clone the repo using: <br>
+`https://github.com/Alexoid1/My-Code-Notes.git` in your terminal.
+- Cd file
+- Run `npm i` in your terminal.
+- Run `npm run make` in your terminal.
 
 
 
