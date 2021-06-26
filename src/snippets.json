@@ -1,0 +1,10 @@
+[
+    {
+        "_id": "405ee331e00a8c5b3bcfee72ec21d83b",
+        "title": "Usar parentesis con and y like",
+        "tech": "SQLserver",
+        "use": "WHERE <br>  (<br>    artist LIKE 'B%' <br>    AND release_year = 1986<br>  ) <br>  -- Or return all songs released after 1990<br>  OR release_year > 1990 ",
+        "description": "usa parentesis con and y or para especificar que se trata de la misma condicion",
+        "search": "and like"
+    }
+]

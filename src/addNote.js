@@ -7,19 +7,20 @@ const crypto = require('crypto');
  
 
 
-let rawdata = fs. readFileSync(path.resolve(__dirname, 'tasks.json'));
+let rawdata = fs. readFileSync(path.resolve(__dirname, 'notes.json'));
 let student = JSON.parse(rawdata);
 let notes = [...student];
 form.addEventListener('submit', e => {
     e.preventDefault();
     let regex2=new RegExp('\n','gi');
     
-    const title = document.getElementById('noteTitle').value;
-    const tech = document.getElementById('noteTech').value;
-    const use = document.getElementById('noteUse').value.replace(regex2,'<br>');
-    const description = document.getElementById('noteDescription').value;
-    const search = document.getElementById('noteSearch').value;
-    const type = document.getElementById('noteType').value;
+    let title = document.getElementById('noteTitle').value;
+    let tech = document.getElementById('noteTech').value;
+    let use = document.getElementById('noteUse').value.replace(regex2,'<br>');
+    let description = document.getElementById('noteDescription').value;
+    let search = document.getElementById('noteSearch').value;
+    let type = document.getElementById('noteType').value;
+    let form=document.getElementById('form');
     var hexstring = crypto.randomBytes(16).toString("hex");
     const newNote = {
         "_id": hexstring,
@@ -32,5 +33,7 @@ form.addEventListener('submit', e => {
     };
     notes.push(newNote);
     let mynotes=JSON.stringify(notes)
-    fs.writeFileSync(path.resolve(__dirname, 'tasks.json'), mynotes);
+    fs.writeFileSync(path.resolve(__dirname, 'notes.json'), mynotes);
+    form.reset();
+
 })

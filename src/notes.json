@@ -1,0 +1,3899 @@
+[
+    {
+        "_id": "5eab70dd1f9da22488f05087",
+        "title": "Etiquetas para titulos",
+        "tech": "HTML",
+        "use": "&lt;h1&gt;texto&lt;/h1&gt;",
+        "description": "Etiquetas para titulos ",
+        "search": "h1 <h1> <h2> <h3> <h4> <h5> <h6> etiquetas para titulos",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab71ae1f9da22488f05088",
+        "title": "Header",
+        "tech": "HTML",
+        "use": "&lt;header&gt;texto&lt;/header&gt;",
+        "description": "Etiquetas para definir el ancabezado de una documento html",
+        "search": "<header></header> header encabezado",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab750e1f9da22488f05089",
+        "title": "Barra de navegacion",
+        "tech": "HTML",
+        "use": "&lt;nav&gt; &lt;ul&gt;&lt;li&gt;menu&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;",
+        "description": "Etiquetas para definir la barra de navegacion en un documento html",
+        "search": "nav <nav> </nav> navbar barra de navegacion",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab75da1f9da22488f0508a",
+        "title": "Section",
+        "tech": "HTML",
+        "use": "&lt;section&gt; &lt;/section&gt;",
+        "description": "Etiquetas para definir una seccion en un documento html",
+        "search": "seccion <section> </section>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab764e1f9da22488f0508b",
+        "title": "Etiqueta article",
+        "tech": "HTML",
+        "use": "&lt;article&gt; &lt;/article&gt;",
+        "description": "Etiquetas para definir un articulo en un documento html",
+        "search": "articulo <article> </article>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab77721f9da22488f0508c",
+        "title": "Etiqueta hgroup",
+        "tech": "HTML",
+        "use": "&lt;hgroup&gt;&lt;h1&gt;titulo&lt;/h1&gt;&lt;/hgroup&gt;",
+        "description": "Etiquetas para un grupo de titulos les da una relevancia a los titulos dentro de la etiqueta.",
+        "search": "<hgroup></hgroup> agrupar titulos grupo de titulos",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab78fc1f9da22488f0508d",
+        "title": "Etiqueta time",
+        "tech": "HTML",
+        "use": "&lt;time datetime='00:00'&gt;tiempo en el atributo datetime&lt;/time&gt;",
+        "description": "Etiquetas para escribir fechas y horas en un documento html.",
+        "search": "<time> </time> tiempo ",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab7d7f1f9da22488f0508e",
+        "title": "Etiqueta aside",
+        "tech": "HTML",
+        "use": "&lt;aside&gt;&lt;/aside&gt;",
+        "description": "Etiquetas para crear un contenedor de la informacion relevante del sitio web se lo usa comunmente alineado a un lado del documento.",
+        "search": "<aside> </aside> aside",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab7ed41f9da22488f0508f",
+        "title": "Etiqueta blockquote",
+        "tech": "HTML",
+        "use": "&lt;blockquote cite='http://urldeejemplo'&gt;texto citado&lt;/blockquote&gt;",
+        "description": "Etiqueta para citar texto de otras paginas web el atributo cite lo vincula ala pagina web de donde provino el texto.",
+        "search": "<blockquote> </blockquote> citar texto",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab80351f9da22488f05090",
+        "title": "Etiqueta footer",
+        "tech": "HTML",
+        "use": "&lt;footer&gt;&lt;/footer&gt;",
+        "description": "Etiqueta para crear un contenedor como pie de pagina.",
+        "search": "<footer> </footer> pie de pagina ",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab84fd1f9da22488f05091",
+        "title": "Etiqueta p",
+        "tech": "HTML",
+        "use": "&lt;p&gt;texto&lt;/p&gt;",
+        "description": "Etiqueta para escribir un texto.",
+        "search": "<p> </p> parrafo ",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab854e1f9da22488f05092",
+        "title": "Etiqueta div",
+        "tech": "HTML",
+        "use": "&lt;div&gt;&lt;/div&gt;",
+        "description": "Etiqueta para crear un contenedor.",
+        "search": "<div>contenedor</div>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab85f81f9da22488f05093",
+        "title": "Etiqueta span",
+        "tech": "HTML",
+        "use": "&lt;span&gt;&lt;/span&gt;",
+        "description": "Etiqueta para crear un contenedor en linea comunmente se usa para dar estilo a un texto o agrupar ciertos elementos.",
+        "search": "<span></span>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab86611f9da22488f05094",
+        "title": "Etiqueta em",
+        "tech": "HTML",
+        "use": "&lt;em&gt;texto&lt;/em&gt;",
+        "description": "Etiqueta para agrupar un texto y darle un estilo de cursiva.",
+        "search": "<em> </em> texto en cursivas",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab874f1f9da22488f05095",
+        "title": "Etiqueta strong",
+        "tech": "HTML",
+        "use": "&lt;strong&gt;texto&lt;/strong&gt;",
+        "description": "Etiqueta para que el texto se muestre con negrillas.",
+        "search": "<strong>texto en negrillas</strong>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab882b1f9da22488f05096",
+        "title": "Etiqueta br",
+        "tech": "HTML",
+        "use": "&lt;/br&gt;",
+        "description": "Etiqueta para dar un espacion en blanco entre lineas.",
+        "search": "Espacio entre lineas </br>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab88ee1f9da22488f05097",
+        "title": "Etiqueta hr",
+        "tech": "HTML",
+        "use": "&lt;hr&gt; o &lt;/hr&gt;",
+        "description": "Etiqueta una linea horizontal visible que sirve como separador entre secciones de texto.",
+        "search": "linea horizontal <hr></hr>",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab8aa01f9da22488f05098",
+        "title": "Etiqueta ol",
+        "tech": "HTML",
+        "use": "&lt;ol start='50' type='1'&gt;&lt;li&gt;elemento&lt;/li&gt;&lt;/ol&gt;",
+        "description": "Etiqueta para crear una lista ordenada el atributo start es desde donde empieza y type es como va a ordenar la lista 'si no se usan atributos lo ordena con numeros'",
+        "search": "<ol> </ol> lista ordenada",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab8be81f9da22488f05099",
+        "title": "Etiqueta ul",
+        "tech": "HTML",
+        "use": "&lt;ul  style='none'&gt;&lt;li&gt;elemento&lt;/li&gt;&lt;/ul&gt;",
+        "description": "Etiqueta para crear una lista sin order el atributo style define si el indice es una linea o un circulo o nada como en el ejemplo 'si no se usan atributos muestra un punto como indice de cada elemento '",
+        "search": "<ul> </ul> lista sin orden",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab97121f9da22488f0509a",
+        "title": "Etiqueta img",
+        "tech": "HTML",
+        "use": "&lt;img src='directoriodelaimagen.gif' alt='descripcion'height='42' width='42'&gt;",
+        "description": "Etiqueta para insertar una imagen en el documento html 'sino especificamos altura o ancho la imagen se inserta con la altura y ancho original'",
+        "search": "<img/> imagen foto",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab99021f9da22488f0509b",
+        "title": "Etiqueta  video",
+        "tech": "HTML",
+        "use": "&lt;video width='320' height='240' controls&gt; &lt;source src='archivo.mp4' type='video/mp4'&gt;&lt;/video&gt;",
+        "description": "Etiqueta para insertar un video el atributo controls se usa para desplegar un menu de control por defecto, la etiqueta &lt;source&gt; para especificar el directorio del elemnto y el tipo de archivo, en el caso de que el video y audio vengan por separado se usa dos etiquetas &lt;source&gt; del  el audio y video.",
+        "search": "<video/> <video> video",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab9ad91f9da22488f0509c",
+        "title": "Comentario en html",
+        "tech": "HTML",
+        "use": "&lt;!--comentario--&gt;",
+        "description": "Etiqueta para comentar partes de codigo o intrucciones utiles ",
+        "search": "<!----> comentario",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab9c9c1f9da22488f0509d",
+        "title": "Etiqueta a",
+        "tech": "HTML",
+        "use": "&lt;a href='http://www.urlejemplo'&gt;elemento&lt;/a&gt;",
+        "description": "le da la propiedad a un texto o elemnto de ser un enlace a otro sitio o parte de la web dependiendo de la url dada ",
+        "search": "<a> </a> ancla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eab9faf1f9da22488f0509e",
+        "title": "Etiqueta table",
+        "tech": "HTML",
+        "use": "&lt;table&gt;&lt;tr&gt;&lt;th&gt;header&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;",
+        "description": "sirve para crear una tabla, &lt;tr&gt; es para crear una fila horizontal en la tabla, &lt;th&gt; para crear el encabezado de la tabla, &lt;td&gt; un dato en la tabla ",
+        "search": "<table> </table> tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba0931f9da22488f0509f",
+        "title": "Etiqueta thead",
+        "tech": "HTML",
+        "use": "&lt;thead&gt;encabezado de la caja&lt;/thead&gt;",
+        "description": "sirve para definir la parte del encabezado en la tabla ",
+        "search": "<thead> </thead> encabezado de la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba2da1f9da22488f050a0",
+        "title": "Etiqueta tbody",
+        "tech": "HTML",
+        "use": "&lt;tbody&gt;elementos&lt;/tbody&gt;",
+        "description": "sirve definir la parte del cuerpo en la tabla.",
+        "search": "<tbody> </tbody> cuerpo de la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba6d71f9da22488f050a1",
+        "title": "Etiqueta tfoot",
+        "tech": "HTML",
+        "use": "&lt;tfoot&gt;elementos&lt;/tfoot&gt;",
+        "description": "sirve para definir la parte del pie en la tabla.",
+        "search": "<tfoot> </tfoot> pie de la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba75c1f9da22488f050a2",
+        "title": "Etiqueta tr",
+        "tech": "HTML",
+        "use": "&lt;tr&gt;elementos&lt;/tr&gt;",
+        "description": "sirve para crear una fila en la tabla ",
+        "search": "<tr> </tr> fila en la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba7f11f9da22488f050a3",
+        "title": "Etiqueta th",
+        "tech": "HTML",
+        "use": "&lt;th&gt;elementos&lt;/th&gt;",
+        "description": "sirve para crear un elemento dentro de la fila y con propiedades de encabezado en tabla.",
+        "search": "<th> </th> encabezado de la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eaba84e1f9da22488f050a4",
+        "title": "Etiqueta td",
+        "tech": "HTML",
+        "use": "&lt;td&gt;elemento&lt;/td&gt;",
+        "description": "sirve para crear un elemento dentro de la fila.",
+        "search": "<td> </td> dato en la tabla",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eabab611f9da22488f050a5",
+        "title": "Etiqueta form",
+        "tech": "HTML",
+        "use": "&lt;form id='form'&gt;&lt;input type='text'&gt;&lt;button id='submit'&gt;submit&lt;/button&gt;&lt;/form&gt;",
+        "description": "sirve para crear un formulario. siempre se le identifica con un id o name para que en el evento tomar los valores de los input",
+        "search": "<form> </form> formulario",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac579bff0de3135c2551cc",
+        "title": "Input text",
+        "tech": "HTML",
+        "use": "&lt;input type='text' id='name'&gt;&lt;label for='name'&gt;texto&lt;/label&gt;",
+        "description": "input crea un casillero para escribir texto puede ir con un label el cual lleva en su atributo for el mismo id del input",
+        "search": "<input type='text'> formulario para texto type text",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac5a42ff0de3135c2551cd",
+        "title": "Input number",
+        "tech": "HTML",
+        "use": "&lt;input type='number' id='num' min='1' max='10' step='1'&gt;&lt;label for='num'&gt;texto&lt;/label&gt;",
+        "description": "input crea un casillero para escribir numeros la propiedad min es el numero en que empieza y max el el numero mas alto para escojer la propiedad step muestra el salto de numeros en la serie de numeros.",
+        "search": "<input type='number'>formulario para numeros type number",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac6142ff0de3135c2551ce",
+        "title": "Input password",
+        "tech": "HTML",
+        "use": "&lt;input type='password' id='pass'&gt;&lt;label for='pass'&gt;texto&lt;/label&gt;",
+        "description": "input crea un casillero para escribir un password ",
+        "search": "<input type='password'>formulario para password input type password  ",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac62c8ff0de3135c2551cf",
+        "title": "Input email",
+        "tech": "HTML",
+        "use": "&lt;input type='email' id='mail'&gt;&lt;label for='mail'&gt;texto&lt;/label&gt;",
+        "description": "input crea un casillero para escribir un email",
+        "search": "<input type='email'>formulario para email",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac64c7ff0de3135c2551d0",
+        "title": "Input checkbox",
+        "tech": "HTML",
+        "use": "&lt;input type='checkbox' id='check' name='seleccion' value='opcion1'&gt;&lt;label for='check'&gt;opcion1&lt;/label&gt;",
+        "description": "input crea un casillero para marcar varios elementos de las multiples opciones es importatnte que todos los checkboxes lleven el mismo elemento name y cada uno su propiedad value con el valor correspondiente de cada elemento",
+        "search": "<input type='checkbox'formulario para checkbox",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac6651ff0de3135c2551d1",
+        "title": "Input radio",
+        "tech": "HTML",
+        "use": "&lt;input type='radio' id='radio' name='seleccion' value='opcion1'&gt;&lt;label for='radio'&gt;opcion1&lt;/label&gt;",
+        "description": "input crea un casillero para marcar solo un elemento de las multiples opciones es importatnte que todos los radio lleven el mismo elemento name y cada uno su propiedad value con el valor correspondiente de cada elemento",
+        "search": "<input type='radio'> formulario para radio buttons",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac6825ff0de3135c2551d2",
+        "title": "Input range",
+        "tech": "HTML",
+        "use": "&lt;input type='range' id='range'  min='0' max='50' value='10'&gt;&lt;label for='range'&gt;texto&lt;/label&gt;",
+        "description": "input un rango de valor definidos en las propiedades min y max y valor por defecto lo marca la propiedad value",
+        "search": "<input type='range'>formulario para un rango",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac6988ff0de3135c2551d3",
+        "title": "Placeholder",
+        "tech": "HTML",
+        "use": "&lt;input type='text' placeholder='write your name'&gt",
+        "description": "palabras que va a ir en el casillero del input pero con letras que al dar clik se borrar inmediatamente 'sirven como intruccion en el caso de no usar label'",
+        "search": "placeholder",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac70abff0de3135c2551d4",
+        "title": "Etiqueta select",
+        "tech": "HTML",
+        "use": "&lt;label for='lista'>texto&lt;/label&gt;&lt;select id='lista'&gt;&lt;option value='value1'&gt;value1&lt;/option&gt;&lt;/select&gt;",
+        "description": "crea una lista desplegable de opciones las cuales solo se puede escojer una opcion",
+        "search": "<select> </select> lista de opciones",
+        "type": "Tag"
+    },
+    {
+        "_id": "5eac83ab5b19bb18e43c1535",
+        "title": "Etiqueta li",
+        "type": "Tag",
+        "search": "<li> </li>  elemento de lista",
+        "tech": "HTML",
+        "use": "&lt;li&gt;elemento&lt;/li&gt;",
+        "description": "Es una etiqueta que contiene un elemento de una lista"
+    },
+    {
+        "_id": "5eacb8eecaa7a62550adfd11",
+        "title": "Etiqueta datalist",
+        "type": "Tag",
+        "search": "<datalist> </datalist> lista de opciones",
+        "tech": "HTML",
+        "use": "&lt;input id='list'&gt; &lt;datalist id='list'&gt;&lt;option value='option1'&gt;option1&lt;/option&gt;&lt;/datalist&gt;",
+        "description": "Es un input que despliega una lista de opciones la cual solo se escoje una"
+    },
+    {
+        "_id": "5eacb9e7caa7a62550adfd12",
+        "title": "input required",
+        "type": "Tag",
+        "search": "campo obligatorio input obligatorio <input required>",
+        "tech": "HTML",
+        "use": "&lt;input type='name' required&gt;",
+        "description": "Es una propiedad de la etiqueta input que obliga al usuario a llenar ese campo antes de poder enviar el formulario"
+    },
+    {
+        "_id": "5eacc00dcaa7a62550adfd13",
+        "title": "Linea de comentario",
+        "type": "Expression",
+        "search": "linea de comentario //",
+        "tech": "JavaScript",
+        "use": "// comentario",
+        "description": "sirve para comentar una linea de codigo o comentar una instruccion del codigo"
+    },
+    {
+        "_id": "5eacc0a0caa7a62550adfd14",
+        "title": "Comentar bloque",
+        "type": "Expression",
+        "search": "bloque de comentarios comentar bloque /**/",
+        "tech": "JavaScript",
+        "use": "/*bloque*/",
+        "description": "sirve para comentar un bloque de codigo"
+    },
+    {
+        "_id": "5eacc269caa7a62550adfd16",
+        "title": "Valor booleano",
+        "type": "Object",
+        "search": "Boolean boolean valor buleano",
+        "tech": "JavaScript",
+        "use": "Boolean",
+        "description": "Es un objeto que engloba todas los valores booleanos en Javascript como false,Null,NAN 0,-0,undefined"
+    },
+    {
+        "_id": "5eacc464caa7a62550adfd17",
+        "title": "length",
+        "type": "Property",
+        "search": ".length valor de un string",
+        "tech": "JavaScript",
+        "use": "var.length string.length array.length",
+        "description": "es una propiedad que muestra el valor de un string por su numero de letras o de un array por su numero de elemntos"
+    },
+    {
+        "_id": "5eacc6facaa7a62550adfd18",
+        "title": "toUpperCase",
+        "type": "Method-String",
+        "search": ".toUpperCase() letras mayusculas to upper case",
+        "tech": "JavaScript",
+        "use": "str.toUpperCase()",
+        "description": "es una propiedad para un string que hace a todas las letras a mayusculas"
+    },
+    {
+        "_id": "5eacc748caa7a62550adfd19",
+        "title": "toLowerCase",
+        "type": "Method-String",
+        "search": ".toLowerCase() letras minusculas to lower case",
+        "tech": "JavaScript",
+        "use": "str.toLowerCase()",
+        "description": "Es una propiedad para un string que hace a todas las letras a minusculas"
+    },
+    {
+        "_id": "5eacca0dcaa7a62550adfd1a",
+        "title": "trim",
+        "type": "Method-String",
+        "search": ".trim() quitar espacios en blanco",
+        "tech": "JavaScript",
+        "use": "str.trim()",
+        "description": "Es una propiedad para un string que quita los espacios en blanco del inicio y del final del string"
+    },
+    {
+        "_id": "5eaccbe6caa7a62550adfd1b",
+        "title": "Math random",
+        "type": "Method-Number",
+        "search": "Math.random() math random numero al azar",
+        "tech": "JavaScript",
+        "use": "Math.random()",
+        "description": "es una funcion que regresa un numero aleatorio de entre 0 a 1"
+    },
+    {
+        "_id": "5eacd020caa7a62550adfd1c",
+        "title": "Math ceil",
+        "type": "Function",
+        "search": "Math.ceil() math ceil numero decimal a entero",
+        "tech": "JavaScript",
+        "use": "Math.ceil(num)",
+        "description": "es una funcion que regresa el numero superior mas proximo al decilmal que tenemos </br><em>ejm: Math.ceil(5.1)=6</em>"
+    },
+    {
+        "_id": "5eace523caa7a62550adfd1d",
+        "title": "Math round",
+        "type": "Function",
+        "search": "Math.round() math round numero decimal a entero",
+        "tech": "JavaScript",
+        "use": "Math.round(num)",
+        "description": "Es una funcion que regresa el numero mas proximo al decilmal que tenemos </br><em>ejm: Math.round(5.1)=5</em>"
+    },
+    {
+        "_id": "5eace76acaa7a62550adfd1e",
+        "title": "Number is Integer",
+        "type": "Function",
+        "search": "Number.isInteger() es entero",
+        "tech": "JavaScript",
+        "use": "Number.isInteger(num)",
+        "description": "es una funcion que regresa un valor true si es entero, false si no lo es o si es cualquier otra clase de dato"
+    },
+    {
+        "_id": "5eace8efcaa7a62550adfd1f",
+        "title": "Math abs",
+        "type": "Function",
+        "search": "Math.abs() valor absoluto",
+        "tech": "JavaScript",
+        "use": "Math.abs(num)",
+        "description": "Es una funcion que regresa el valor absoluto de un numero"
+    },
+    {
+        "_id": "5eace98acaa7a62550adfd20",
+        "title": "Math PI",
+        "type": "Function",
+        "search": "Math.PI valor de pi PI",
+        "tech": "JavaScript",
+        "use": "Math.PI",
+        "description": "Es una funcion que regresa el valor de PI"
+    },
+    {
+        "_id": "5eacec95caa7a62550adfd21",
+        "title": "parseInt",
+        "type": "Function",
+        "search": "parseInt() trasformar texto a numero string a numero",
+        "tech": "JavaScript",
+        "use": "parseInt('num', base) || parseInt('num')",
+        "description": "Es una funcion convierte un numero con tipo de dato texto a numero base diez, si se especifica la base trasforma el numero a un numero correspondiente en esa base numerica"
+    },
+    {
+        "_id": "5eaced20caa7a62550adfd22",
+        "title": "parseFloat",
+        "type": "Function",
+        "search": "parseFloat() numero decimal a entero",
+        "tech": "JavaScript",
+        "use": "parseFloat('num')",
+        "description": "Es una funcion que convierte un numero decimal a entero"
+    },
+    {
+        "_id": "5eacf947caa7a62550adfd23",
+        "title": "console log",
+        "type": "Method",
+        "search": "console.log() imprimir en consola",
+        "tech": "JavaScript",
+        "use": "console.log() ",
+        "description": "Metodo para imprimir en consola"
+    },
+    {
+        "_id": "5eacf9c6caa7a62550adfd24",
+        "title": "console clear",
+        "type": "Method",
+        "search": "console.clear() limpiar consola",
+        "tech": "JavaScript",
+        "use": "console.clear() ",
+        "description": "Metodo para limpiar consola"
+    },
+    {
+        "_id": "5eacfb60caa7a62550adfd25",
+        "title": "defineProperty",
+        "type": "Method-Object",
+        "search": "Object.defineProperty() cambiar propiedad de objeto añadir propiedad a objeto",
+        "tech": "JavaScript",
+        "use": "Object.defineProperty(objectName, propiedad,{value:'valor'})</br>Object.defineProperty(objectName, propiedad,{enumerable: false,</br>configurable: false,</br>writable: false,</br>value: 'static'})",
+        "description": "Metodo para cambiar o añadir propiedad de Objeto tambien puede altera los descriptores que son propiedades default en un objeto.</br>"
+    },
+    {
+        "_id": "5eacfda4caa7a62550adfd26",
+        "title": "defineProperties",
+        "type": "Method-Object",
+        "search": "Object.defineProperties() cambiar multiples propiedades de objeto o añadir propiedades a objeto",
+        "tech": "JavaScript",
+        "use": "Object.defineProperties(objectName, propiedad:{value:'valor'}, propiedad2:{value:'valor'}) ",
+        "description": "Metodo para cambiar o añadir multiples propiedades a Objeto."
+    },
+    {
+        "_id": "5eacfe78caa7a62550adfd27",
+        "title": "Object freeze",
+        "type": "Method-Object",
+        "search": "Object.freeze() hacer inalterable a un objeto",
+        "tech": "JavaScript",
+        "use": "Object.freeze(variable) Object.freeze(objectName)",
+        "description": "Hace a un objeto o variable inalterable."
+    },
+    {
+        "_id": "5ead03c2caa7a62550adfd28",
+        "title": "typeof",
+        "type": "Method",
+        "search": "typeof() tipo de dato",
+        "tech": "JavaScript",
+        "use": "typeof(var) , typeof 'string' ",
+        "description": "Regresa el tipo de dato del elemento."
+    },
+    {
+        "_id": "5ead04eecaa7a62550adfd29",
+        "title": "location reload",
+        "type": "Method",
+        "search": "location.reload() refrescar pagina",
+        "tech": "JavaScript",
+        "use": "location.reload() ",
+        "description": "Refresca la pagina."
+    },
+    {
+        "_id": "5eae3eccb79cdc24a09beea0",
+        "title": "Alert",
+        "type": "Method",
+        "search": "alert() alerta ventana de advertencia",
+        "tech": "JavaScript",
+        "use": "alert()",
+        "description": "una alerta en una ventana emergente."
+    },
+    {
+        "_id": "5eae3fb3b79cdc24a09beea1",
+        "title": "prompt",
+        "type": "Method",
+        "search": "prompt() cuadro de texto input emergente",
+        "tech": "JavaScript",
+        "use": "prompt('texto')",
+        "description": "Despliega un input emergente en el cual se puede escribir texto."
+    },
+    {
+        "_id": "5eae4530b79cdc24a09beea2",
+        "title": "document write",
+        "type": "Method",
+        "search": "document.write() escribir en el documento html escribir directo",
+        "tech": "JavaScript",
+        "use": "document.write('texto')",
+        "description": "Escribe directo en el documento html."
+    },
+    {
+        "_id": "5eae4674b79cdc24a09beea3",
+        "title": "document getElementById",
+        "type": "Method",
+        "search": "document.getElementById() conseguir el documento por su id buscar el documento por su id obtener elemento por id",
+        "tech": "JavaScript",
+        "use": "document.getElementById('Id')",
+        "description": "Consigue una etiqueta del documento html por su id, tambien se puede acceder a las propiedades de la etiqueta con el id y cambiarlas </br><em>ejm: document.getElementById('id').replaceholder=texto cambia</em>."
+    },
+    {
+        "_id": "5eae4b2fb79cdc24a09beea4",
+        "title": "document getElementByTagName",
+        "type": "Method",
+        "search": "document.getElementByTagName() conseguir elemento por su etiqueta obtener elemento por su etiqueta",
+        "tech": "JavaScript",
+        "use": "document.getElementByTagName('tag')",
+        "description": "Obtiene un elemento por su etiqueta, el el caso que alla varios elementos con la misma etiqueta se puede acceder a elemeto por el numero de orden que lo presede </br><em>ejm:document.getElementByTagName('li')[3]</em>."
+    },
+    {
+        "_id": "5eae4cd5b79cdc24a09beea5",
+        "title": "document createElement",
+        "type": "Method",
+        "search": "document.createElement() crear elemento html crear etiqueta html",
+        "tech": "JavaScript",
+        "use": "document.createElement('p')",
+        "description": "Crea elemento de cualquier etiqueta de html,se usa para crear elemntos dentro de otros elementos ya creados primero se crea despues se lo anexa al elemento. <em> appendChild() </em>"
+    },
+    {
+        "_id": "5eae5038b79cdc24a09beea6",
+        "title": "document createTextNode",
+        "type": "Method",
+        "search": "document.createTextNode() crear texto para etiquetas crear nodo de texto",
+        "tech": "JavaScript",
+        "use": "document.createTextNode('text')",
+        "description": "Crea un contenido de texto que puede ser usado en varias etiquetas o elementos, para usarlo se lo anexa a un componente ya creado <em>document.createElement(), appendChild() </em>."
+    },
+    {
+        "_id": "5eae53b1b79cdc24a09beea7",
+        "title": "text Content",
+        "type": "Method",
+        "search": "textContent() poner texto a un elemento escribir texto en un elemento",
+        "tech": "JavaScript",
+        "use": "element.textContent='text'",
+        "description": "Escribe texto en un elemento, tambien se usa para cambiar el contenido de texto dentro de una elemento"
+    },
+    {
+        "_id": "5eae5a2eb79cdc24a09beea8",
+        "title": "append Child",
+        "type": "Method",
+        "search": "appendChild() anexar elemento anexar contenido unir elemento unir contenido",
+        "tech": "JavaScript",
+        "use": ".parentElement.appendChild(element)",
+        "description": "Anexa contenido o un elemento dentro de otro"
+    },
+    {
+        "_id": "5eaf048f1d232114908742d9",
+        "title": "set Attribute",
+        "type": "Method",
+        "search": "setAttribute() cambiar atributo de una etiqueta asignar atributo a una etiqueta poner atributo",
+        "tech": "JavaScript",
+        "use": "element.setAttribute('attribute','value')",
+        "description": "Pone un atributo en una etiuqeta y si el atributo existe solo lo cambia"
+    },
+    {
+        "_id": "5eaf05c21d232114908742da",
+        "title": "remove Attribute",
+        "type": "Method",
+        "search": "removeAttribute() remover atributo de una etiqueta quitar atributo de una etiqueta eleminar atributo",
+        "tech": "JavaScript",
+        "use": "element.removeAttribute('attribute'')",
+        "description": "Quita un atributo en una etiqueta  "
+    },
+    {
+        "_id": "5eaf072b1d232114908742db",
+        "title": "id",
+        "type": "Method",
+        "search": "id='' cambiar la id de una etiqueta renombrar la id",
+        "tech": "JavaScript",
+        "use": "element.id='newId'",
+        "description": "Renombrar la id de un elemento"
+    },
+    {
+        "_id": "5eaf089a1d232114908742dc",
+        "title": "class Name",
+        "type": "Method",
+        "search": "className() cambiar clase escribir clase renombrar clase",
+        "tech": "JavaScript",
+        "use": "element.className='newClassName'",
+        "description": "Renombrar la clase de un elemento"
+    },
+    {
+        "_id": "5eaf09ed1d232114908742dd",
+        "title": "classList add",
+        "type": "Method",
+        "search": "classList.add() añadir clase agregar clase poner clase",
+        "tech": "JavaScript",
+        "use": "element.classList.add('newClass')",
+        "description": "Añadir una clase a un elemento"
+    },
+    {
+        "_id": "5eaf0ca51d232114908742de",
+        "title": "classList remove",
+        "type": "Method",
+        "search": "classList.remove() remover clase quitar clase eliminar clase",
+        "tech": "JavaScript",
+        "use": "element.classList.remove('Class')",
+        "description": "Quita una clase de un elemento"
+    },
+    {
+        "_id": "5eaf13ff1d232114908742df",
+        "title": "classList toggle",
+        "type": "Method",
+        "search": "classList.toggle() quitar clase eliminar clase agregar clase poner clase",
+        "tech": "JavaScript",
+        "use": "element.classList.toggle('Class')</br>element.classList.toggle('Class',false)remueve clase</br>element.classList.toggle('Class',true) añade clase",
+        "description": "Añade o Quita clase se lo puede usar solo con el primer atributo el segundo atributo especifica si se va quitar o agregar la clase"
+    },
+    {
+        "_id": "5eaf16811d232114908742e0",
+        "title": "style",
+        "type": "Method",
+        "search": ".style estilos cambiar estilos agregar estilos modificar estilos",
+        "tech": "JavaScript",
+        "use": "element.style.cssStyle='value'",
+        "description": "Accede a los estilos de css para poderlos modificar desde javascript <em>Note:para escribir el estilo se usa la escritura camel case sino no lo reconose como propiedad</em>"
+    },
+    {
+        "_id": "5eaf1e431d232114908742e1",
+        "title": "insert Before",
+        "type": "Method",
+        "search": "insertBefore() anexar elementos unir elementos combinar elementos insertar elementos",
+        "tech": "JavaScript",
+        "use": "element.insertBefore(newElement,element.childNodes[2])</br>element.insertBefore(newElement,referencelement)",
+        "description": "Anexa un elemento en otro, la diferencia con <em>appendChild() </em> es que podemos escojer donde va ha ser anexado con la propiedad childNodes y si no especificamos los anexa primero en el elemento."
+    },
+    {
+        "_id": "5eaf24651d232114908742e2",
+        "title": "replace Child",
+        "type": "Method",
+        "search": "replaceChild() remplazar elemento cambiar elemento",
+        "tech": "JavaScript",
+        "use": "element.replaceChild(newelement,oldelement)</br>element.replaceChild(newelement,element.childNodes[3])",
+        "description": "Remplaza un elemento por otro, si no se especifica el elemento a remplazar con un indetificador se puede usar <em>childNodes[]</em> para especificar a que elemento se va a remplazar."
+    },
+    {
+        "_id": "5eaf25f11d232114908742e3",
+        "title": "Child Nodes",
+        "type": "Property",
+        "search": "childNodes elementos hijo acceder a elementos hijo",
+        "tech": "JavaScript",
+        "use": "element.childNodes  //todos los elementos hijo</br>element.childNodes[3]  //solo el elemento hijo en el indice 3",
+        "description": "Propiedad para referirse a los elementos hijo un elemento o se puede acceder a solo un elemento si se especifica el indice."
+    },
+    {
+        "_id": "5eaf317b1d232114908742e4",
+        "title": "remove Child",
+        "type": "Method",
+        "search": "removeChild() remover elemento de lista quitar elemento eliminar elemento de lista",
+        "tech": "JavaScript",
+        "use": "element.removeChild(childelement)</br>element.removeChild(element.childNodes[2])",
+        "description": "Remueve un elemento de otro,sino se usa un indetificador del elemento a remover se puede usar childNodes o propiedades para acceder a los elementos hijos."
+    },
+    {
+        "_id": "5eaf32331d232114908742e5",
+        "title": "parent Element",
+        "type": "Property",
+        "search": "parentElement elemento padre elemento contenedor",
+        "tech": "JavaScript",
+        "use": "element.parentElement",
+        "description": "accede a elemento padre de un elemento."
+    },
+    {
+        "_id": "5eaf39331d232114908742e6",
+        "title": "first Child",
+        "type": "Property",
+        "search": "firstChild primer elemento tomar primer elemento",
+        "tech": "JavaScript",
+        "use": "element.firstChild",
+        "description": "accede al primer elemento hijo de un elemento."
+    },
+    {
+        "_id": "5eaf396a1d232114908742e7",
+        "title": "last Child",
+        "type": "Property",
+        "search": "lastChild ultimo elemento tomar ultimo elemento",
+        "tech": "JavaScript",
+        "use": "element.lastChild",
+        "description": "accede al ultimo elemento hijo de un elemento."
+    },
+    {
+        "_id": "5eaf3b3d1d232114908742e8",
+        "title": "char At",
+        "type": "Method-String",
+        "search": "charAt() caracter en indice letra en indice encontrar letra por su indice encontrar caracter",
+        "tech": "JavaScript",
+        "use": "str.charAt(index)",
+        "description": "Regresa la letra el el indice indicado."
+    },
+    {
+        "_id": "5eaf3bf71d232114908742e9",
+        "title": "char Code At",
+        "type": "Method-String",
+        "search": "charCodeAt() unicode codigo de letra codigo de caracter",
+        "tech": "JavaScript",
+        "use": "str.charCodeAt(index)",
+        "description": "Regresa el unicode de la letra en el indice indicado."
+    },
+    {
+        "_id": "5eaf43841d232114908742ea",
+        "title": "ends Whit",
+        "type": "Method-String",
+        "search": "endsWhit() ultima letra  ultima palabra del string ultimo caracter",
+        "tech": "JavaScript",
+        "use": "str.endsWhit('***')</br>str.endsWhit('***',length)",
+        "description": "Regresa verdadero o false si el string termina con ese caracter o palabra, tambien se puede usar un segundo parametro que determina hasta que indice del string va comprobar el metodo</br><em>ejm: var str='Hello world, welcome to the universe.'</br>str.endsWith('world', 11)=true</em>."
+    },
+    {
+        "_id": "5eaf47401d232114908742eb",
+        "title": "includes",
+        "type": "Method-String",
+        "search": "includes() buscar palabra buscar letra buscar caracter buscar texto",
+        "tech": "JavaScript",
+        "use": "str.includes('***')",
+        "description": "Regresa verdadero o falso si el string contiene la palabra o caracter buscado <em>Note:Escribir exactamente la palabra buscada con mayusculas y caracteres</em>."
+    },
+    {
+        "_id": "5eaf4d0f1d232114908742ec",
+        "title": "substring",
+        "type": "Method-String",
+        "search": "substring() copiar cortar string cortar palabra cortar oracion cortar texto cortar letras eliminar texto borrar texto",
+        "tech": "JavaScript",
+        "use": "str.substring(startIndex,endIndex)</br>str.substring(startIndex)",
+        "description": "Corta un string desde el indice inicial al final, si no se especifica el indice final corta desde el indice inicial al final del string."
+    },
+    {
+        "_id": "5eaf4e1a1d232114908742ed",
+        "title": "substr",
+        "type": "Method-String",
+        "search": "substr() copiar cortar string cortar palabra cortar oracion cortar texto cortar letras eliminar texto borrar texto",
+        "tech": "JavaScript",
+        "use": "str.substr(startIndex,length)</br>str.substr(startIndex)",
+        "description": "Corta un string desde el indice inicial mas el numero letras dado, si no se especifica el length corta desde el indice inicial al final del string."
+    },
+    {
+        "_id": "5eaf4fef1d232114908742ee",
+        "title": "index Of",
+        "type": "Method-String",
+        "search": "indexOf() encontrar string encontrar palabra buscar string buscar palabra buscar texto encontrar texto buscar letras",
+        "tech": "JavaScript",
+        "use": "str.indexOf('***',startindex)</br>str.indexOf('***')",
+        "description": "Busca la palabra o letra en el string se le puede asignar un segundo parametro que es el indice desde donde empieza a buscar <em>Note:regresa el indice del primer caracter en encontrar si el caracter buscado se repite mas de una vez y si no lo encuentra regresa -1. ref:lastIndexOf(), search()</em>."
+    },
+    {
+        "_id": "5eaf50c01d232114908742ef",
+        "title": "index Of",
+        "type": "Method-Array",
+        "search": "indexOf() encontrar elemento buscar elemento en array",
+        "tech": "JavaScript",
+        "use": "array.indexOf('element',startindex)</br>array.indexOf('element')",
+        "description": "Busca elemento en el array se le puede asignar un segundo parametro que es el indice desde donde empieza a buscar y regresa el indice del caracter si lo encuentra si no regresa -1."
+    },
+    {
+        "_id": "5eaf54ee1d232114908742f0",
+        "title": "last Index Of",
+        "type": "Method-String",
+        "search": "lastIndexOf() encontrar indice encontrar palabra buscar indice buscar palabra buscar texto encontrar texto buscar letras indice",
+        "tech": "JavaScript",
+        "use": "str.lastIndexOf('***',startindex)</br>str.lastIndexOf('***')",
+        "description": "Busca la palabra o letra en el string desde el final al inicio se le puede asignar un segundo parametro que es el indice desde donde empieza a buscar contando desde atras hacia delante <em>Note:regresa el primer indice del caracter en encontrar si el caracter buscado se repite mas de una vez, si no lo encuentra regresa -1.</em>."
+    },
+    {
+        "_id": "5eaf5bbb1d232114908742f1",
+        "title": "last Index Of",
+        "type": "Method-Array",
+        "search": "lastIndexOf() encontrar elemento buscar elemento indice",
+        "tech": "JavaScript",
+        "use": "array.lastIndexOf('***',startindex)</br>array.lastIndexOf('***')",
+        "description": "Busca el elemento en el array desde el final al inicio se le puede asignar un segundo parametro que es el indice hasta donde debe buscar contando desde atras hacia delante <em>Note:regresa el indice del primer elemento en encontrar si el elemento buscado se repite mas de una vez y regresa -1 si no lo encuentra.</em>."
+    },
+    {
+        "_id": "5eaf5ed01d232114908742f2",
+        "title": "replace",
+        "type": "Method-String",
+        "search": "replace() expresiones regulares remplazar texto cambiar texto remplazar letra cambiar letra remplazar caracter cambiar caracter eliminar texto borrar texto",
+        "tech": "JavaScript",
+        "use": "str.replace('strtext','newtext')</br>str.replace(var,var2)</br>str.replace(regex,'newtext')</br>str.replace(regex,function(x){return})",
+        "description": "Remplaza el texto en el string por un texto nuevo se puede usar expresiones regulares y tambien el segundo parametro acepta funciones."
+    },
+    {
+        "_id": "5eaf60fe1d232114908742f3",
+        "title": "split",
+        "type": "Method-String",
+        "search": "split()  cambiar texto a array  transformar string a array cambiar string a array convertir texto a array transformar texto a array",
+        "tech": "JavaScript",
+        "use": "str.split('*')</br>str.split('*',num)",
+        "description": "Transforma un texto en array tomando como medida de separacion un caracter o grupo de caracteres, tambien toma un segundo parametro en el cual se puede especificar el numero de splits o separaciones."
+    },
+    {
+        "_id": "5eaf685a1d232114908742f4",
+        "title": "to String",
+        "type": "Method-String",
+        "search": "toString() convierte numero a string transforma numero a texto cambia numero a texto",
+        "tech": "JavaScript",
+        "use": "num.toString()</br>num.toString(16)",
+        "description": "Transforma un numero a texto ,se puede usar con un parametro que determina la base numerica</br><em>var num = 15;</br>num.toString()=15</br> num.toString(2)=1111;</br>num.toString(16)=f;</em>."
+    },
+    {
+        "_id": "5eaf6b4b1d232114908742f5",
+        "title": "flat",
+        "type": "Method-Array",
+        "search": "flat() desanidar array desahacer array convertir array cambiar array",
+        "tech": "JavaScript",
+        "use": "array.flat()",
+        "description": "Desanida array convierte los arrays anidados en un solo array dependiendo del nivel de anidacion, acepta un parametro que es el nivel de anidacion que por defecto viene en 1.</br><em>ejm:var arr1 = [1, 2, [3, 4]]</br>arr1.flat()=[1, 2, 3, 4]</br>ejm2:var arr3 = [1, 2, [3, 4, [5, 6]]]</br>arr2.flat()=[1, 2, 3, 4, [5, 6]]</br>arr3.flat(2)=[1, 2, 3, 4, 5, 6];</em>."
+    },
+    {
+        "_id": "5eaf71851d232114908742f6",
+        "title": "test",
+        "type": "Method-String",
+        "search": "test() expresiones regulares buscar expresion buscar texto buscar palabra",
+        "tech": "JavaScript",
+        "use": "regex.test('str')",
+        "description": "Verifica si la expresion esta en el string regresa verdadero o falso."
+    },
+    {
+        "_id": "5eaf75ae1d232114908742f7",
+        "title": "match",
+        "type": "Method-String",
+        "search": "match() expresiones regulares buscar texto buscar palabras buscar string",
+        "tech": "JavaScript",
+        "use": "str.match(regex)",
+        "description": "Busca una palabra en un string las veces que se repita en el string y que cumpla las condiciones del regex."
+    },
+    {
+        "_id": "5eaf83a51d232114908742f8",
+        "title": "for Each",
+        "type": "Method-Array",
+        "search": "forEach() ciclo loop array alterar elementos de array cambiar elementos",
+        "tech": "JavaScript",
+        "use": "array.forEach(function(value, index){return value,index})</br>array.forEach(function(value){return value})",
+        "description": "Toma cada elemento del array para modificarlo o solo mostrarlos,tambien acepta un segundo parametro que retorna el indice."
+    },
+    {
+        "_id": "5eaf87271d232114908742f9",
+        "title": "map",
+        "type": "Method-Array",
+        "search": "map() ciclo loop array alterar elementos de array cambiar elementos",
+        "tech": "JavaScript",
+        "use": "array.map(function(value, index){return value+2,index})</br>array.map(function(value){return value+2})</br>array.map(Math.sqrt)</br>array.map(function)",
+        "description": "Toma cada elemento del array para modificarlo con una funcion o se puede pasar el nombre de una funcion ya establecida como parametro, se puede usar con metodos numericos Math,o una funcion establecida y nos regresa el resultado de forma directa </br><em>ejm:var nums = [1,2,3];</br>function sumados(item){let n=item+2;return n}</br>nums.map(sumados)=3,4,5</em>."
+    },
+    {
+        "_id": "5eaf92c41d232114908742fa",
+        "title": "filter",
+        "type": "Method-Array",
+        "search": "filter() ciclo loop array filtrar elementos de array filtro",
+        "tech": "JavaScript",
+        "use": "array.filter(function(value, index){return value>2})</br>array.filter(function(value){return value>2})</br>array.filter(function)",
+        "description": "Toma cada elemento del array y los filtra con una funcion la cual solo regresa los valores que cumplieron la condicion o se puede pasar el nombre de una funcion ya establecida como parametro y nos regresa el resultado de forma directa."
+    },
+    {
+        "_id": "5eb085d362bb8103dc64e851",
+        "title": "reduce",
+        "type": "Method-Array",
+        "search": "reduce() ciclo loop array reducir un array",
+        "tech": "JavaScript",
+        "use": "array.reduce(function(total, value){return return total + value})</br>array.reduce(function)</br>array.reduce(function,num)",
+        "description": "Toma cada elemento del array y lo opera con el total hasta reducir el array a solo un valor, cuando se usa con una funcion ya establecida se puede colocar un segundo parametro que seria el valor con que ya inicia el total.</br><em>ejm:var numbers = [15, 2, 1, 4];</br>function getSum(total, num){return total + num}</br>numbers.reduce(getSum, 5)=27;</em>"
+    },
+    {
+        "_id": "5eb087a662bb8103dc64e852",
+        "title": "some",
+        "type": "Method-Array",
+        "search": "some() ciclo loop array filtro algun valor es igual a",
+        "tech": "JavaScript",
+        "use": "array.some(function(value){return value > 2})</br>array.some(function)",
+        "description": "Verifica si un elemento esta en el array o si algun elemento cumple una condicion si es cierto regresa true sino false <em>Note:a diverencia de filter() que regresa los elementos que cumplen la condicion</em>"
+    },
+    {
+        "_id": "5eb08c1362bb8103dc64e853",
+        "title": "every",
+        "type": "Method-Array",
+        "search": "every() ciclo loop array filtro condicion a todos los elementos",
+        "tech": "JavaScript",
+        "use": "array.every(function(value){return value > 2})</br>array.every(function)",
+        "description": "Verifica si todos los elementos cumplen la condicion si estan regresa true sino false."
+    },
+    {
+        "_id": "5eb08dca62bb8103dc64e854",
+        "title": "find",
+        "type": "Method-Array",
+        "search": "find() ciclo loop array algun valor es igual buscar valor obtener valor buscar elemento",
+        "tech": "JavaScript",
+        "use": "array.find(function(value){return value > 2})</br>array.find(function)",
+        "description": "Regresa el valor del primer valor que cumpla la condicion"
+    },
+    {
+        "_id": "5eb08fb462bb8103dc64e855",
+        "title": "push",
+        "type": "Method-Array",
+        "search": "push() agregar elemento empujar elemento poner elemento array añadir elemento",
+        "tech": "JavaScript",
+        "use": "array.push('element')</br>array.push('element','elemento2')",
+        "description": "Empuja un o varios elemento al final de un array"
+    },
+    {
+        "_id": "5eb0900462bb8103dc64e856",
+        "title": "unshift",
+        "type": "Method-Array",
+        "search": "unshift() agregar elemento empujar elemento poner elemento array agrega elemento añadir elemento",
+        "tech": "JavaScript",
+        "use": "array.unshift('element')</br>array.unshift('element','element1')",
+        "description": "Empuja un o varios elementos al inicio de un array"
+    },
+    {
+        "_id": "5eb0934162bb8103dc64e857",
+        "title": "pop",
+        "type": "Method-Array",
+        "search": "pop() eliminar elemento quitar elemento borrar elemento array",
+        "tech": "JavaScript",
+        "use": "array.pop()",
+        "description": "Borra un elemento del final de array y toma ese valor"
+    },
+    {
+        "_id": "5eb0939e62bb8103dc64e858",
+        "title": "shift",
+        "type": "Method-Array",
+        "search": "shift() eliminar elemento quitar elemento borrar elemento array",
+        "tech": "JavaScript",
+        "use": "array.shift()",
+        "description": "Borra un elemento del inicio de un array y toma ese valor"
+    },
+    {
+        "_id": "5eb097d962bb8103dc64e859",
+        "title": "slice",
+        "type": "Method-Array",
+        "search": "slice() copiar elementos cortar elementos de array",
+        "tech": "JavaScript",
+        "use": "array.slice(startindex,endindex)",
+        "description": "Copia un o varios elementos del array y regresa esos valores que copio en un nuevo array <em>Note:el array original no es alterado</em>"
+    },
+    {
+        "_id": "5eb0997f62bb8103dc64e85a",
+        "title": "splice",
+        "type": "Method-Array",
+        "search": "splice() eliminar elementos cortar elementos de array",
+        "tech": "JavaScript",
+        "use": "array.splice(startindex,num,newelement)</br>array.splice(startindex,num,newelement,newelement2)",
+        "description": "Corta un o varios elementos del array y regresa esos valores que corto en un nuevo array, el atributo num determina cuantos elementos van a ser cortados y los atributos newelement son los elementos con que van a ser remplazados <em>Note:el array original es alterado</em>"
+    },
+    {
+        "_id": "5eb0a2cd62bb8103dc64e85b",
+        "title": "slice",
+        "type": "Method-String",
+        "search": "slice() cortar letras cortar texto  cortar string copiar texto copiar letras",
+        "tech": "JavaScript",
+        "use": "str.slice(startindex,endindex)</br>str.slice(index,-1)",
+        "description": "Copia un string y regresa ese string como valor <em>Note:el string original no es alterado, si en el endindex se pone un -1 negativo empieza a contar los indices de atras a delante</br>ejm:var a='world'</br>a.slice(2,-1)='rld'</em>"
+    },
+    {
+        "_id": "5eb0a7e362bb8103dc64e85c",
+        "title": "repeat",
+        "type": "Method-String",
+        "search": "repeat() copiar texto copiar letras copiar string",
+        "tech": "JavaScript",
+        "use": "str.repeat(num)",
+        "description": "Copia un string un numero determinado de veces y regresa eso como un nuevo string"
+    },
+    {
+        "_id": "5eb0a97362bb8103dc64e85d",
+        "title": "search",
+        "type": "Method-String",
+        "search": "repeat() buscar texto buscar letras buscar string",
+        "tech": "JavaScript",
+        "use": "str.search('value')",
+        "description": "Busca un caracter o conjunto de caracteres en el string y regresa el indice de donde lo encontro y regresa -1 si no lo encuentra"
+    },
+    {
+        "_id": "5eb0b45e62bb8103dc64e85e",
+        "title": "includes",
+        "type": "Method-Array",
+        "search": "includes() buscar elementos en array",
+        "tech": "JavaScript",
+        "use": "array.includes(element)",
+        "description": "Regresa verdadero o falso si el array contiene el elemento buscado."
+    },
+    {
+        "_id": "5eb0bf0462bb8103dc64e85f",
+        "title": "concat",
+        "type": "Method-Array",
+        "search": "concat() concatenar arrays unir arrays combinar arrays agregar elementos poner elementos añadir elemento",
+        "tech": "JavaScript",
+        "use": "array.concat(array2)</br>array.concat('element','elemento2')",
+        "description": "Combina dos arrays y regresa un nuevo array sin alterar el original"
+    },
+    {
+        "_id": "5eb0bfa562bb8103dc64e860",
+        "title": "concat",
+        "type": "Method-String",
+        "search": "concat() concatenar texto unir palabras combinar texto agregar texto  añadir texto",
+        "tech": "JavaScript",
+        "use": "array.concat(array2)</br>array.concat('element','elemento2')",
+        "description": "Combina dos arrays y regresa un nuevo array sin alterar el original"
+    },
+    {
+        "_id": "5eb0c7ac62bb8103dc64e861",
+        "title": "fill",
+        "type": "Method-Array",
+        "search": "fill() copiar llenar remplazar cambiar",
+        "tech": "JavaScript",
+        "use": "array.fill('str')</br>array.fill('str',startindex, endindex)",
+        "description": "Remplaza elementos del array por un elemento o string se puede usar con un segundo parametro que indica desde donde empezar a remplazar y un tercer parametro que indica hasta donde remplazar"
+    },
+    {
+        "_id": "5eb0dd3d62bb8103dc64e862",
+        "title": "Array from",
+        "type": "Method-Array",
+        "search": "Array.from() convertir texto en array cambiar objeto en array crear array convertir argumentos en array transformar argumentos en array",
+        "tech": "JavaScript",
+        "use": "Array.from('str')=[s,t,r]</br>Array.from(object,map())</br>Array.from(argument)   //convierte los argumentos en array",
+        "description": "Convierte todo lo que sea iterable o que tenga una valor length en un array , otra menera de usarlo es en el primer parametro simpre va a ir un objeto con la propiedad length porque va crear un array con el valor de esa propiedad y como segundo parametro admite una funcion map con la cual itera en el array creado para retornar un valor</br><em>let a={length:5,str:'li'}</br>Array.from(a,(str,v)=>{return a.str})=[li,li,li,li,li]</br>Note:se usa comunmente con el querySelectorAll() para convertir en array a la lista de nodos que se obtiene de esta funcion,tambien se usa para convertir los argumentos de una funcion (arguments) en array .</em>"
+    },
+    {
+        "_id": "5eb0deba62bb8103dc64e863",
+        "title": "isArray",
+        "type": "Method-Array",
+        "search": "isArray() es array comprobar tipo comprobar si es array comprobacion",
+        "tech": "JavaScript",
+        "use": "Array.isArray(element)",
+        "description": "Regresa verdadero si el elemento es un array sino regresa falso"
+    },
+    {
+        "_id": "5eb0e8de62bb8103dc64e864",
+        "title": "join",
+        "type": "Method-Array",
+        "search": "join() convierte una array en texto cambia un array transforma un array",
+        "tech": "JavaScript",
+        "use": "array.join('separator')</br>array.join()",
+        "description": "Convierte un array en texto y como parametro un caracter que va a ser el separador entre los elementos sino se especifica ningun caracter por defecto pone una coma entre los elementos</br><em>ejm:var a=['hola','mundo']</br>a.join()='hola,mundo'</br>a.join('-')='hola-mundo'</br>a.join(' ')='hola mundo'</em>"
+    },
+    {
+        "_id": "5eb0f0e662bb8103dc64e865",
+        "title": "Math max",
+        "type": "Method-Number",
+        "search": "Math.max() maximo valor numero mayor",
+        "tech": "JavaScript",
+        "use": "Math.max(2,3,4)=4;</br>var a=[2,3,4]; Math.max(...a)=4",
+        "description": "Devuelve el numero mas alto si se usa con un array usar el spread operator(...) para que itere a todos los valores."
+    },
+    {
+        "_id": "5eb0f14d62bb8103dc64e866",
+        "title": "Math min",
+        "type": "Method-Number",
+        "search": "Math.min() valor minimo numero menor",
+        "tech": "JavaScript",
+        "use": "Math.min(2,3,4)=2;</br>var a=[2,3,4]; Math.min(...a)=2",
+        "description": "Devuelve el numero menor, si se usa con un array usar el spread operator(...) para que itere a todos los valores."
+    },
+    {
+        "_id": "5eb1e4a34676512748973a39",
+        "title": "for in",
+        "type": "Object Property",
+        "search": "for(in) loop iteracion de objetos iterar objetos ciclo",
+        "tech": "JavaScript",
+        "use": "for(variable in object){} ",
+        "description": "Itera a todas las propiedades de un objeto"
+    },
+    {
+        "_id": "5eb1e54b4676512748973a3a",
+        "title": "delete",
+        "type": "Object Property",
+        "search": "delete eliminar propiedad borrar propiedad quitar propiedad",
+        "tech": "JavaScript",
+        "use": "delete objectname.property",
+        "description": "Elimina una propiedad en un objeto"
+    },
+    {
+        "_id": "5eb1e9294676512748973a3b",
+        "title": "this",
+        "type": "Object Property",
+        "search": "this esto referencia a objeto referir",
+        "tech": "JavaScript",
+        "use": "this.property1",
+        "description": "Hace referencia al aobjeto de donde se usa para usar sus propiedades en si</br><em>var person ={  firstName: 'John',</br>lastName : 'Doe',</br>id : 5566,</br>fullName : function() {return this.firstName + ' '  + this.lastName;}};</em>"
+    },
+    {
+        "_id": "5eb1fcf54676512748973a3c",
+        "title": "Object values",
+        "type": "Method-Object",
+        "search": "Object.values() objeto a array convertir objeto transformar objeto",
+        "tech": "JavaScript",
+        "use": "Object.values(objetcname)",
+        "description": "Tranforma las propiedades de un objeto en array"
+    },
+    {
+        "_id": "5eb1fdd24676512748973a3d",
+        "title": "JSON stringify",
+        "type": "Method-Object",
+        "search": "JSON.stringify() objeto a texto objeto a string convertir objeto transformar objeto",
+        "tech": "JavaScript",
+        "use": "JSON.stringify(objectname)",
+        "description": "Tranforma un objeto en texto si hay propiedades del objeto con funciones no las imprime"
+    },
+    {
+        "_id": "5eb205144676512748973a3e",
+        "title": "get",
+        "type": "Object Property",
+        "search": "get() obtener propiedad buscar propiedad",
+        "tech": "JavaScript",
+        "use": "var object={name:'str',get nam(){return this.name}</br>var a=object.nam='str'}",
+        "description": "Establece una funcion que se puede llamar como una propiedad sin () y obtener los valores de las propiedades del objeto<em></br>var person={name:'Alex',get nam(){return this.name}}</br>var nombre=person.nam</em>"
+    },
+    {
+        "_id": "5eb237c34676512748973a3f",
+        "title": "set",
+        "type": "Object Property",
+        "search": "set() añadir propiedad cambiar propiedad agregar propiedad",
+        "tech": "JavaScript",
+        "use": "var object={name:'',set nam(nam){return this.name=nam}</br>object.nam='Alex'",
+        "description": "Asigna el valor a una propiedad del objeto fuera del objeto"
+    },
+    {
+        "_id": "5eb23d354676512748973a40",
+        "title": "constructor",
+        "type": "Object Property",
+        "search": "constructor() creador de objetos constructor tipo de objeto crear objeto",
+        "tech": "JavaScript",
+        "use": "function Dog(){</br>this.name:'chavo',</br>this.color:'negro',</br>this.raza:runa}</br></br>function Dog(name,color){</br>this.name:name,</br>this.color:color,</br>this.raza:runa}</br>new Dog('regan','negro')",
+        "description": "Crea la estructura de un objeto que despues puede ser usado para crear mas instancias del propio objeto pero con distintos valores<em> Note:es recomendable que el nombre del constructor vaya con mayusculas la primera letra</br>var dog2=new Dog()  //nuevo objeto</br>dog2.name='str' reasigna valor a propiedad</em>"
+    },
+    {
+        "_id": "5eb311b43267e9256c7c7e7c",
+        "title": "instance of",
+        "type": "Operator",
+        "search": "instanceof pertenece a es instancia de se deriva de",
+        "tech": "JavaScript",
+        "use": "objectname instanceof constructorname",
+        "description": "Regresa verdadero si el objeto es derivado de ese contructor si no regresa false</br><em>ejm:var='str'</br>var instanceof String //true</em>"
+    },
+    {
+        "_id": "5eb3150a3267e9256c7c7e7d",
+        "title": "prototype",
+        "type": "Object Property",
+        "search": "prototype prototipo añadir propiedades a un constructor agregar propiedades a un constructor",
+        "tech": "JavaScript",
+        "use": "constructorname.prototype.newproperty='str'",
+        "description": "Agrega propiedad a un constructor"
+    },
+    {
+        "_id": "5eb32be63267e9256c7c7e7e",
+        "title": "is Prototype Of",
+        "type": "Method-Object",
+        "search": "isPrototypeOf() comprueba si pertenece al contructor comprobacion es prototipo de tipo de constructor",
+        "tech": "JavaScript",
+        "use": "constructorname.prototype.isPrototypeOf(objectname)",
+        "description": "Comprueba si el objeto fue creado apartir de ese constructor"
+    },
+    {
+        "_id": "5eb3318c3267e9256c7c7e7f",
+        "title": "Object assign",
+        "type": "Method-Object",
+        "search": "Object.assign() asignar propiedades copiar propiedades de un objeto a otro copiar objeto",
+        "tech": "JavaScript",
+        "use": "Object.assign(objecttarget,objetcsource)</br>Object.assign(objecttarget,objetcsource,objectsource2...)   //asigna la propiedades de varios objetos a un solo objeto</br>Object.assign({},objetcsource)  //clona objeto",
+        "description": "Copia las propiedades de un o varios objetos y los asigna a otro"
+    },
+    {
+        "_id": "5eb332d53267e9256c7c7e80",
+        "title": "Object create",
+        "type": "Method-Object",
+        "search": "Object.create() crea objeto crear objeto",
+        "tech": "JavaScript",
+        "use": "const a=Object.create(objectname)",
+        "description": "Crea un objeto tomando como estructura prototipo otro objeto"
+    },
+    {
+        "_id": "5eb33fc23267e9256c7c7e81",
+        "title": "Object entries",
+        "type": "Method-Object",
+        "search": "Object.entries() convertir objeto en array transformar objeto en array",
+        "tech": "JavaScript",
+        "use": "Object.entries(objectname)",
+        "description": "Convierte un objeto en array con sus propiedades y valores</br><em></em>var obj = { foo: 'bar', baz: 42 };</br>Object.entries(obj)= [ ['foo', 'bar'], ['baz', 42] ]"
+    },
+    {
+        "_id": "5eb344093267e9256c7c7e82",
+        "title": "Object from Entries",
+        "type": "Method-Object",
+        "search": "Object.fromEntries() convertir array en objeto transformar array en objeto",
+        "tech": "JavaScript",
+        "use": "const var=Object.fromEntries(array)",
+        "description": "Convierte un array en objeto con sus propiedades y valores [clave-valor] , si se quiere asignar mas de una propiedad se debe usar new Map()</br><em>var ar=['nombre','Alex']</br>const name=Object.fromEntries(ar)={nombre:'Alex'}</br>ejm2:const entries = new Map([ ['foo', 'bar'],['baz', 42]]);</br>const obj = Object.fromEntries(entries);</em>"
+    },
+    {
+        "_id": "5eb349b23267e9256c7c7e83",
+        "title": "Prototype constructor",
+        "type": "Object Property",
+        "search": "prototype.constructor crear un constructor crear objeto crear tipo de objeto",
+        "tech": "JavaScript",
+        "use": "objectname.prototype.constructor=objectname",
+        "description": "Sirve para independizar a un objeto con una instancia y aignarlo como constructor"
+    },
+    {
+        "_id": "5eb3522f3267e9256c7c7e84",
+        "title": "to String",
+        "type": "Method-Array",
+        "search": "toString() convertir array a texto transformar array a texto",
+        "tech": "JavaScript",
+        "use": "array.toString()",
+        "description": "Convierte un array en texto"
+    },
+    {
+        "_id": "5eb355013267e9256c7c7e85",
+        "title": "has Own Property",
+        "type": "Method-Object",
+        "search": "hasOwnProperty() comprobar propiedad comprobacion de propiedad tiene esa propiedad",
+        "tech": "JavaScript",
+        "use": "objectname.hasOwnProperty(property)",
+        "description": "Comprueba si el objeto tiene esa propiedad"
+    },
+    {
+        "_id": "5eb3563a3267e9256c7c7e86",
+        "title": "Object preventExtensions",
+        "type": "Method-Object",
+        "search": "Object.preventExtensions() congela objeto bloquea objeto objeto inalterable",
+        "tech": "JavaScript",
+        "use": "Object.preventExtensions(objectname)",
+        "description": "Vuelve a un objeto inalterable en sus propiedades no se pueden agregar mas propiedades"
+    },
+    {
+        "_id": "5eb35ce83267e9256c7c7e87",
+        "title": "is Frozen",
+        "type": "Method-Object",
+        "search": "isFrozen() comprobar de objeto esta congelado comprobacion de objeto estado de objeto",
+        "tech": "JavaScript",
+        "use": "Object.isFrozen(objectname)",
+        "description": "Comprueba si objeto esta congelado o no si lo esta regresa true sino false"
+    },
+    {
+        "_id": "5eb366093267e9256c7c7e88",
+        "title": "Object keys",
+        "type": "Method-Object",
+        "search": "Object.keys() transformar objeto convertir objeto propiedades del objeto conseguir propiedades obtener propiedades",
+        "tech": "JavaScript",
+        "use": "Object.keys(objectname)",
+        "description": "Devuelve un array de las propiedades del objeto no los valores sino la propiedad enumerable del objeto"
+    },
+    {
+        "_id": "5eb366c03267e9256c7c7e89",
+        "title": "Object getOwnPropertyNames",
+        "type": "Method-Object",
+        "search": "Object.getOwnPropertyNames() transformar objeto convertir objeto propiedades del objeto obtener propiedades conseguir propiedades",
+        "tech": "JavaScript",
+        "use": "Object.getOwnPropertyNames(objectname)",
+        "description": "Devuelve un array de las propiedades del objeto no los valores sino la propiedad enumerable y no enumerables del objeto"
+    },
+    {
+        "_id": "5eb374163267e9256c7c7e8a",
+        "title": "Object string",
+        "type": "Method-Object",
+        "search": "Object.string() transformar objeto a texto convertir objeto a texto",
+        "tech": "JavaScript",
+        "use": "Objectname.string()",
+        "description": "Convierte un objeto en texto"
+    },
+    {
+        "_id": "5eb3754e3267e9256c7c7e8b",
+        "title": "Math floor",
+        "type": "Method-Number",
+        "search": "Math.floor() redondea un numero decimal a entero",
+        "tech": "JavaScript",
+        "use": "Math.floor(num)",
+        "description": "Redondea un numero quitando los decimales</br>ejm:Math.floor(1.6)=1"
+    },
+    {
+        "_id": "5eb377493267e9256c7c7e8c",
+        "title": "inner HTML",
+        "type": "DOM Html Property",
+        "search": "innerHTML escribir texto añadir texto agregar texto a una etiqueta agregar contenido añadir contenido agregar elementos añadir elementos",
+        "tech": "JavaScript",
+        "use": "element.innerHTML='Hola'</br>var text='hola';.element.innerHTML=text",
+        "description": "Añade texto o elementos dentro de un elemento"
+    },
+    {
+        "_id": "5eb44a9a11e1b50d40425fef",
+        "title": "query Selector",
+        "type": "Method-DOM",
+        "search": "querySelector() buscar componente buscar elemento",
+        "tech": "JavaScript",
+        "use": "element.querySelector(selectores)",
+        "description": "Busca componente por su selector </br>ejem:querySelector('.class')   //por clase</br>querySelector('#id')   //por id</br>querySelector('tagName') // por etiqueta"
+    },
+    {
+        "_id": "5eb44d3311e1b50d40425ff0",
+        "title": "add Event Listener",
+        "type": "Method-DOM",
+        "search": "addEventListener() agregar evento añadir evento",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('tipodeevento',function(){})</br>element.addEventListener('tipodeevento',function)",
+        "description": "Sirve para crear evento en un elemento"
+    },
+    {
+        "_id": "5eb44f0211e1b50d40425ff1",
+        "title": "remove Event Listener",
+        "type": "Method-DOM",
+        "search": "removeEventListener() quita evento elimina evento borra evento",
+        "tech": "JavaScript",
+        "use": "element.removeEventListener('tipodeevento',function(){})</br>element.removeEventListener('tipodeevento',function)",
+        "description": "Sirve para quitar evento en un elemento"
+    },
+    {
+        "_id": "5eb45cc911e1b50d40425ff2",
+        "title": "new Event",
+        "type": "Method-DOM",
+        "search": "new Event() constructor constructor de eventos crear evento",
+        "tech": "JavaScript",
+        "use": "event = new Event('name')</br>event2 = new Event('name' {eventInit})</br>{'bubbles':false  //indica si el evento se propaga</br>'cancelable':false //indica si el evento es cancelable</br>'scoped': false   //indica el ambito de propagacion</br>'composed':false}   //indica si el evento dispara listeners",
+        "description": "Crea un evento, toma dos parametros el primero es obligaorio es el nombre del evento,el segundo el eventInit la configuracion del evento</br>ejm:event1 = new Event('name1')</br>element.addEventListener('name1',function(return 'hola'))</br>element.dispatchEvent(name1) //activa el evento "
+    },
+    {
+        "_id": "5eb45f5111e1b50d40425ff3",
+        "title": "dispatch Event",
+        "type": "Method-DOM",
+        "search": "dispatchEvent() activar evento lanzar evento disparar evento",
+        "tech": "JavaScript",
+        "use": "element.dispatchEvent(eventname)",
+        "description": "Dispara un evento en cualquier parte del codigo <em>Note: se usa comunmente con eventos creados con new Event() para dispara esos eventos</em>."
+    },
+    {
+        "_id": "5eb46b5e11e1b50d40425ff4",
+        "title": "Event click",
+        "type": "Event",
+        "search": "click evento click onclick ",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('click',function(){})</br>element.onclick = function(){myScript};</br>&lt;element onclick='myScript'&gt; //HTML",
+        "description": "Dispara un evento al dar click en un elemento."
+    },
+    {
+        "_id": "5eb46c5111e1b50d40425ff5",
+        "title": "Event blur",
+        "type": "Event",
+        "search": "blur evento blur fuera de foco focusout onblur",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('blur',function(){})</br>object.onblur = function(){myScript};</br><element onblur='myScript'> //HTML",
+        "description": "Dispara un evento al dejar el focus a un elemento."
+    },
+    {
+        "_id": "5eb46cf911e1b50d40425ff6",
+        "title": "Event keydown",
+        "type": "Event",
+        "search": "keydown evento keydown evento al presionar una tecla",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('keydown',function(e){if(e.keyCode===num){function(e);})</br>object.onkeydown = function(){myScript};</br>&lt;element onkeydown='myScript'&gt;",
+        "description": "Dispara un evento al presionar una letra, funciona con el key code de cada tecla."
+    },
+    {
+        "_id": "5eb475ab11e1b50d40425ff7",
+        "title": "Event mousedown",
+        "type": "Event",
+        "search": "mousedown evento mousedown evento mousedown mientras presiones el mouse evento de arrastre onmousedown",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('mousedown',function(){})</br>object.onmousedown = function(){}</br>&lt;element onmousedown='myScript'&gt;  //HTML",
+        "description": "Dispara un evento al presionar o mantener presionado el mouse, sirve para hacer eventos de arrastre de elementos."
+    },
+    {
+        "_id": "5eb4bf62ed23190ffc413552",
+        "title": "Event mouseup",
+        "type": "Event",
+        "search": "mouseup evento mouseup evento onmouseup mientras levante el mouse evento de arrastre onmouseup",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('mouseup',function(){})</br>object.onmouseup = function(){myScript}</br>&lt;element onmouseup='myScript'&gt;  //HTML",
+        "description": "Dispara un evento al soltar el mouse, sirve para hacer eventos de arrastre de elementos."
+    },
+    {
+        "_id": "5eb4c05ced23190ffc413553",
+        "title": "Event mouseover",
+        "type": "Event",
+        "search": "mouseover evento mouseover evento onmouseover mouse encima mouse sobre",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('mouseover',function(){})</br>object.onmouseover = function(){myScript}</br>&lt;element onmouseover='myScript'&gt;  //HTML",
+        "description": "Dispara un evento al poner el mouse sobre el elemento."
+    },
+    {
+        "_id": "5eb4c147ed23190ffc413554",
+        "title": "Event mouseout",
+        "type": "Event",
+        "search": "mouseout evento mouseout evento onmouseout mouse fuera mouse afuera",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('mouseout',function(){})</br>object.onmouseout = function(){myScript}</br>&lt;element onmouseout='myScript'&gt;  //HTML",
+        "description": "Dispara un evento al sacar el mouse del elemento."
+    },
+    {
+        "_id": "5eb4c520ed23190ffc413555",
+        "title": "Event mousemove",
+        "type": "Event",
+        "search": "mousemove evento mousemove evento onmousemove al mover el mouse",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('mousemove',function(){})</br>object.onmousemove= function(){myScript}</br>&lt;element onmousemove='myScript'&gt;  //HTML",
+        "description": "Dispara un evento al mover el mouse."
+    },
+    {
+        "_id": "5eb4c667ed23190ffc413556",
+        "title": "Event keyup",
+        "type": "Event",
+        "search": "keyup evento keyup evento al levantar una tecla",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('keyup',function(e){if(e.keyCode===num){function(e);})</br>object.onkeyup = function(){myScript};</br>&lt;element onkeyup='myScript'&gt;",
+        "description": "Dispara un evento al levantar una letra, funciona con el key code de cada tecla."
+    },
+    {
+        "_id": "5eb4c783ed23190ffc413557",
+        "title": "Event focus",
+        "type": "Event",
+        "search": "focus evento focus evento al hacer focus",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('focus',function(e){if(e.keyCode===num){function(e);})</br>element.focus = function(){myScript};</br>&lt;element onfocus='myScript'&gt;",
+        "description": "Dispara un evento al estar en estado de focus."
+    },
+    {
+        "_id": "5eb4cc25ed23190ffc413558",
+        "title": "Event submit",
+        "type": "Event",
+        "search": "evento submit evento click form formulario",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('submit',function(){})</br>element.onsubmit = function(){myScript};</br>&lt;element onsubmit='myScript'&gt;",
+        "description": "Dispara un evento al enviar un formulario"
+    },
+    {
+        "_id": "5eb4ccbaed23190ffc413559",
+        "title": "Event animation end",
+        "type": "Event",
+        "search": "animationend evento animationend evento fin de animacion",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('animationend',function(){});",
+        "description": "Dispara un evento al finalizar una animacion de un elemento"
+    },
+    {
+        "_id": "5eb4cf2bed23190ffc41355a",
+        "title": "Event animation start",
+        "type": "Event",
+        "search": "animationstart evento animationstart evento inicio de animacion",
+        "tech": "JavaScript",
+        "use": "element.addEventListener('animationstart',function(){});",
+        "description": "Dispara un evento al iniciar una animacion de un elemento"
+    },
+    {
+        "_id": "5eb4d723ed23190ffc41355b",
+        "title": "JSON parse",
+        "type": "Method-Object",
+        "search": "JSON.parse() convertir texto a objeto transformar texto a objeto",
+        "tech": "JavaScript",
+        "use": "JSON.parse(str)</br>JSON.parse('{&quot;name&quot;:&quot;Alex&quot;}')",
+        "description": "Transforma un texto a objeto con formato json Note:El texto tiene que tener las estructura de objeto json."
+    },
+    {
+        "_id": "5eb4dca0ed23190ffc41355c",
+        "title": "local Storage",
+        "type": "HTML Storage",
+        "search": "localStorage memoria del navegador guardar datos permanentemente guardar objetos",
+        "tech": "JavaScript",
+        "use": "localStorage",
+        "description": "localStorage te permite acceder al objeto local Storage y  guardar datos en formato de objeto los datos persisten almacenados entre  las diferentes sesiones de navegación."
+    },
+    {
+        "_id": "5eb4dd00ed23190ffc41355d",
+        "title": "session Storage",
+        "type": "HTML Storage",
+        "search": "sessionStorage memoria del navegador guardar datos temporalmente guardar objetos",
+        "tech": "JavaScript",
+        "use": "sessionStorage",
+        "description": "sessionStorage te permite acceder al objeto Storage y  guardar datos en formato de objeto los datos son eliminados cuando finaliza la sesion de navegación."
+    },
+    {
+        "_id": "5eb5b03cf3b10c2588b37230",
+        "title": "get Item",
+        "type": "HTML Storage",
+        "search": "getItem() obtener objeto guardado conseguir objeto guardado",
+        "tech": "JavaScript",
+        "use": "localStorage.getItem(&quot;name&quot;)",
+        "description": "Permite obtener un objeto guArdado en el storage."
+    },
+    {
+        "_id": "5eb5b29cf3b10c2588b37231",
+        "title": "set Item",
+        "type": "HTML Storage",
+        "search": "setItem() guardar objeto guardando objeto guardar elemento",
+        "tech": "JavaScript",
+        "use": "localStorage.setItem(&quot;keyname&quot;,value)</br>localStorage.setItem(&quot;keyname&quot;)  //si el valor ya esta establecido en la propiedad del objeto",
+        "description": "Permite obtener un objeto guArdado en el storage </br>sessionStorage.setItem(&quot;test1&quot;, &quot;Lorem ipsum&quot;)."
+    },
+    {
+        "_id": "5eb5b36ff3b10c2588b37232",
+        "title": "remove Item",
+        "type": "HTML Storage",
+        "search": "removeItem() eliminar objeto borrar objeto eliminar elemento borrar elemento",
+        "tech": "JavaScript",
+        "use": "localStorage.removeItem(&quot;keyname&quot;)",
+        "description": "Remueve un objeto del storage."
+    },
+    {
+        "_id": "5eb5c369f3b10c2588b37233",
+        "title": "new Audio",
+        "type": "Method-DOM",
+        "search": "new Audio() crear audio constructor de audio audio constructor poner sonidos poner audio",
+        "tech": "JavaScript",
+        "use": "let audio1=new Audio('ejem.wav')</br>let audio2=new Audio()</br>audio2.src='sonds/ejem.wav'",
+        "description": "Implementa un audio para ser usado en la aplicacion, Note:para usar el audio y se escuche con algun evento de la aplicacion se usa .play()"
+    },
+    {
+        "_id": "5eb5c57ef3b10c2588b37234",
+        "title": "play",
+        "type": "Method-DOM",
+        "search": "play() play audio escuchar audio reproducir audio",
+        "tech": "JavaScript",
+        "use": "audio2.play()",
+        "description": "Reproduce audio"
+    },
+    {
+        "_id": "5eb5d5d2f3b10c2588b37235",
+        "title": "set Timeout",
+        "type": "Method-DOM",
+        "search": "setTimeout() intervalo de tiempo temporizar tiempo de espera",
+        "tech": "JavaScript",
+        "use": "setTimeout(function(){},miliseconds)",
+        "description": "Ejecuta una acciondespues de el tiempo de espera</br>ejm: setTimeout(function(){ alert('Hello'); }, 3000);"
+    },
+    {
+        "_id": "5eb5d67af3b10c2588b37236",
+        "title": "clear Timeout",
+        "type": "Method-DOM",
+        "search": "clearTimeout() quitar intervalo limpiar intervalo borrar intervalo quitar tiempo limpiar tiempo borrar tiempo",
+        "tech": "JavaScript",
+        "use": "clearTimeout(function(){},miliseconds)",
+        "description": "Ejecuta una accion despues de el tiempo de espera</br>ejm: setTimeout(function(){ alert('Hello'); }, 3000);"
+    },
+    {
+        "_id": "5eb5dc81f3b10c2588b37237",
+        "title": "query selectorAll",
+        "type": "Method-DOM",
+        "search": "querySelectorAll() busca etiquetas busca elementos selecciona  etiquetas selecciona elementos",
+        "tech": "JavaScript",
+        "use": "element.querySelectorAll('tag','tag2','ta3')</br>element.querySelectorAll('.class')</br>element.querySelectorAll('iframe[data-src]')",
+        "description": "Selecciona multiples elementos especificados en el selector."
+    },
+    {
+        "_id": "5eb5ded3f3b10c2588b37238",
+        "title": "is Trusted",
+        "type": "Event Property",
+        "search": "isTrusted verifica evento activado por el usuario",
+        "tech": "JavaScript",
+        "use": "event.isTrusted",
+        "description": "Verifica si el evento es activado atraves de la interfaz por el usuario ,regresa true si es activado por otros medios regresa false."
+    },
+    {
+        "_id": "5eb61d9a753be3282ceba11c",
+        "title": "Etiqueta audio",
+        "type": "Tag",
+        "search": "<audio> elemento de audio agregar sonidos poner sonidos etiqueta para sonidos etiqueda de audio",
+        "tech": "HTML",
+        "use": "<audio src='folder/auio.wav' type='audio/wav'></audio>",
+        "description": "Etiqueta para agregar archivos de sonido al documento html."
+    },
+    {
+        "_id": "5eb62e06753be3282ceba11d",
+        "title": "currentTime",
+        "type": "Audio Property",
+        "search": "currentTime repetir audio repetir sonido",
+        "tech": "JavaScript",
+        "use": "audio2.currentTime=0</br>audio2.play()",
+        "description": "Regresa el audio al segundo marcado antes que se ejecute un metodo play()."
+    },
+    {
+        "_id": "5ebb30e11bbdbc2b7cd5ee00",
+        "title": "Date now",
+        "type": "Method-Time",
+        "search": "Date.now() tiempo ahora time fecha actual fecha hoy fecha ahora",
+        "tech": "JavaScript",
+        "use": "Date.now()",
+        "description": "Regresa el numero de milisegundos transcurido desde 1970."
+    },
+    {
+        "_id": "5ebb34991bbdbc2b7cd5ee01",
+        "title": "new Date",
+        "type": "Method-Time",
+        "search": "new Date() crear fecha crear tiempo empezar fecha",
+        "tech": "JavaScript",
+        "use": "new Date()</br>new Date(milliseconds)</br>var d = new Date('string')</br>new Date(year, month, day, hours, minutes, seconds, milliseconds);",
+        "description": "Crea un fecha nueva si no se especifica ningun argumento regresa la fecha actual</br>ejm:new Date(2018, 11, 24, 10, 33, 30, 0);</br>new Date('October 13, 2014 11:13:00');."
+    },
+    {
+        "_id": "5ebb37011bbdbc2b7cd5ee02",
+        "title": "get Hours",
+        "type": "Method-Time",
+        "search": "getHours() obtener horas hora actual",
+        "tech": "JavaScript",
+        "use": "date.getHours()",
+        "description": "Obtiene la hora dependiendo de la hora local sino se especifica ningun argumento si se especifa devuelve el numero de horas indicado en el argumento Nota:simpre se usa con el constructor new Date()."
+    },
+    {
+        "_id": "5ebb37af1bbdbc2b7cd5ee03",
+        "title": "get Minutes",
+        "type": "Method-Time",
+        "search": "getMinutes() obtener minutos minutos ahora",
+        "tech": "JavaScript",
+        "use": "date.getMinutes()",
+        "description": "Obtiene los minutos dependiendo de la hora local sino se especifica ningun argumento, si se especifa devuelve el numero de minutos indicado en el argumento Nota:simpre se usa con el constructor new Date()."
+    },
+    {
+        "_id": "5ebb45861bbdbc2b7cd5ee04",
+        "title": "get Date",
+        "type": "Method-Time",
+        "search": "getDate() tiempo ahora time fecha actual fecha hoy fecha ahora",
+        "tech": "JavaScript",
+        "use": "date.getDate()",
+        "description": "Regrersa el numero de dia en la fecha."
+    },
+    {
+        "_id": "5ebb464c1bbdbc2b7cd5ee05",
+        "title": "get Month",
+        "type": "Method-Time",
+        "search": "getMonth() mes actual obtener mes que mes es",
+        "tech": "JavaScript",
+        "use": "date.getMonth()",
+        "description": "Regrersa el mes actual dependiendo de la asignacion porque asigna los meses del 0 al 11 y segun ejm:mayo=4."
+    },
+    {
+        "_id": "5ebb47201bbdbc2b7cd5ee06",
+        "title": "get Day",
+        "type": "Method-Time",
+        "search": "getDay() dia de la semana que dia es?",
+        "tech": "JavaScript",
+        "use": "date.getDay()",
+        "description": "Regrersa el numero de dia dependiendo porque asigna desde el domingo=0 a sabado=6."
+    },
+    {
+        "_id": "5ebb48321bbdbc2b7cd5ee07",
+        "title": "get full year",
+        "type": "Method-Time",
+        "search": "getFullYear() obtener año que año es? año actual",
+        "tech": "JavaScript",
+        "use": "date.getFullYear()",
+        "description": "Regrersa el año en la fecha."
+    },
+    {
+        "_id": "5ebb56b41bbdbc2b7cd5ee0f",
+        "title": "_filename",
+        "type": "Property",
+        "search": "direccion de directorio directorio actual",
+        "tech": "Node",
+        "use": "_filename",
+        "description": "Para obtener la direccion del directorio del proyecto y el archivo."
+    },
+    {
+        "_id": "5ebb754a1bbdbc2b7cd5ee10",
+        "title": "Process",
+        "type": "Module",
+        "search": "proceso modulo de procesos modulo proceso",
+        "tech": "Node",
+        "use": "process</br>var process=require('process')",
+        "description": "Es un modulo de node que ya esta en uso global es decir no depende de un requerimento 'require' para poder usar el modulo, se lo puede usar directamente."
+    },
+    {
+        "_id": "5ebb75c01bbdbc2b7cd5ee11",
+        "title": "_dirname",
+        "type": "Command line",
+        "search": "direccion de directorio directorio actual",
+        "tech": "Node",
+        "use": "_dirname",
+        "description": "Para obtener la direccion del directorio del proyecto."
+    },
+    {
+        "_id": "5ebb768a1bbdbc2b7cd5ee12",
+        "title": "argv",
+        "type": "Module Process",
+        "search": "argumentos del processo argumento de archivo process.argv",
+        "tech": "Node",
+        "use": "process.argv",
+        "description": "Muestra los argumentos del archivo."
+    },
+    {
+        "_id": "5ebb79dc1bbdbc2b7cd5ee13",
+        "title": "stdout",
+        "type": "Module Process",
+        "search": "process.stdout() imprimir mostrar salida",
+        "tech": "Node",
+        "use": "process.stdout",
+        "description": "Le proporciona un socket de salida al archivo lo cual puede usarse de diversas formas para imprimir y mostrar informacion."
+    },
+    {
+        "_id": "5ebb7b361bbdbc2b7cd5ee14",
+        "title": "stdout write",
+        "type": "Module Process",
+        "search": "process.stdout.write() imprimir mostrar mensaje salida escribir mensaje en terminal console.log()",
+        "tech": "Node",
+        "use": "process.stdout.write(&quot;str&quot;)",
+        "description": "Imprime en el terminal."
+    },
+    {
+        "_id": "5ebb7d921bbdbc2b7cd5ee15",
+        "title": "stdin",
+        "type": "Module Process",
+        "search": "process.stdin conectar escuchar enviar",
+        "tech": "Node",
+        "use": "process.stdin",
+        "description": "Le proporciona un socket de entrada al archivo lo cual puede usarse de diversas formas para escuchar y recivir informacion."
+    },
+    {
+        "_id": "5ebb7ef31bbdbc2b7cd5ee16",
+        "title": "stdin on",
+        "type": "Module Process",
+        "search": "process on conectar escuchar enviar ",
+        "tech": "Node",
+        "use": "process.stdin.on('data',function(data){})",
+        "description": "Escucha y procesa esa informacion."
+    },
+    {
+        "_id": "5ebb83621bbdbc2b7cd5ee17",
+        "title": "exit",
+        "type": "Module Process",
+        "search": "process.exit salir finalizar proceso terminar procesos finaliza aplicacion termina aplicacion",
+        "tech": "Node",
+        "use": "process.exit()",
+        "description": "Termina el proceso."
+    },
+    {
+        "_id": "5ebb910f1bbdbc2b7cd5ee18",
+        "title": "pid",
+        "type": "Module Process",
+        "search": "process.pid id del proceso numero de proceso",
+        "tech": "Node",
+        "use": "process.pid",
+        "description": "En node a cada proceso se le asigna un id de processo, process.pid regresa ese id."
+    },
+    {
+        "_id": "5ebb91d11bbdbc2b7cd5ee19",
+        "title": "title",
+        "type": "Module Process",
+        "search": "process.title titulo del proceso nombre del proceso",
+        "tech": "Node",
+        "use": "process.title",
+        "description": "Muestra el nombre del proceso."
+    },
+    {
+        "_id": "5ebb924c1bbdbc2b7cd5ee1a",
+        "title": "execPath",
+        "type": "Module Process",
+        "search": "process.execPath directorio de node js",
+        "tech": "Node",
+        "use": "process.execPath",
+        "description": "Muestra el directorio de donde se ejecuta node."
+    },
+    {
+        "_id": "5ebb92d81bbdbc2b7cd5ee1b",
+        "title": "cwd",
+        "type": "Module Process",
+        "search": "process.cwd() directorio del proyecto directorio del projecto directorio del archivo",
+        "tech": "Node",
+        "use": "process.cwd()",
+        "description": "Muestra el directorio de donde se ejecuta el proyecto."
+    },
+    {
+        "_id": "5ebb93db1bbdbc2b7cd5ee1c",
+        "title": "version",
+        "type": "Module Process",
+        "search": "process.version version de node version del programa",
+        "tech": "Node",
+        "use": "process.version",
+        "description": "regresa un string con la version de node que se esta usando."
+    },
+    {
+        "_id": "5ebb94901bbdbc2b7cd5ee1d",
+        "title": "platform",
+        "type": "Module Process",
+        "search": "process.platform plataforma usada sistema operativo",
+        "tech": "Node",
+        "use": "process.platform",
+        "description": "regresa un string con el sistema operativo usandose."
+    },
+    {
+        "_id": "5ebb95411bbdbc2b7cd5ee1e",
+        "title": "arch",
+        "type": "Module Process",
+        "search": "process.arch arquitectura del sistema operativo",
+        "tech": "Node",
+        "use": "process.arch",
+        "description": "regresa un string con la arquitectura binaria que usa el sistema operativo es decir si usa 32bits o 64bits."
+    },
+    {
+        "_id": "5ebb96041bbdbc2b7cd5ee1f",
+        "title": "uptime",
+        "type": "Module Process",
+        "search": "process.uptime() tiempo del proceso tiempo de ejecucion tiempo al ejecutar tiempo proceso",
+        "tech": "Node",
+        "use": "process.uptime()",
+        "description": "Regresa un numero que es los segundo que le tomo a node ejecutar el proceso."
+    },
+    {
+        "_id": "5ebb97091bbdbc2b7cd5ee20",
+        "title": "abort",
+        "type": "Module Process",
+        "search": "process.abort() abortar proceso terminar proceso finalizar proceso",
+        "tech": "Node",
+        "use": "process.abort()",
+        "description": "Termina el proceso y genera un core file que es un documento que especifica todo con respecto al projecto."
+    },
+    {
+        "_id": "5ebc7b6ec8051c2698d9accc",
+        "title": "config",
+        "type": "Module Process",
+        "search": "process.config configuracion configuracion de procesos",
+        "tech": "Node",
+        "use": "process.config",
+        "description": "Regresa un objeto con la configuracion de javascript usada para compilar."
+    },
+    {
+        "_id": "5ebc7c5ac8051c2698d9accd",
+        "title": "env",
+        "type": "Module Process",
+        "search": "process.env perfil de usuario ambiente de usuario informacion de usuario ambiente de desarrollo",
+        "tech": "Node",
+        "use": "process.env",
+        "description": "Regresa un objeto con la informacion del ambiente de desarrollo que usa el usuario."
+    },
+    {
+        "_id": "5ebc960cc8051c2698d9acce",
+        "title": "path",
+        "type": "Module",
+        "search": "path",
+        "tech": "Node",
+        "use": "const path=require('path')",
+        "description": "Modulo de node que sirve para trabajar con direccionamiento y direcciones url."
+    },
+    {
+        "_id": "5ebc99b1c8051c2698d9accf",
+        "title": "basename",
+        "type": "Module Path",
+        "search": "basename nombre de archivo nombre base",
+        "tech": "Node",
+        "use": "path.basename(/foo/rar/fef.jpg)=fef.jpg",
+        "description": "Regresa solo la ultima porcion del directorio o nombre del archivo en el directorio."
+    },
+    {
+        "_id": "5ebc9acec8051c2698d9acd0",
+        "title": "join",
+        "type": "Module Path",
+        "search": "join unir convertir en directorio",
+        "tech": "Node",
+        "use": "path.join('arg','axd','afp','zwz')=arg/axd/afp/zwz",
+        "description": "Regresa los string convertidos en una direccion Nota: solo admite string si se le pasa otro tipo de dato devuelve error."
+    },
+    {
+        "_id": "5ebca829c8051c2698d9acd1",
+        "title": "normalize",
+        "type": "Module Path",
+        "search": "normalize convertir transformar directorio normalizar directorio",
+        "tech": "Node",
+        "use": "path.normalize(qwe/add//arg/..././/)=qwe/add/arg",
+        "description": "Regresa una direccion en string y le quita los signos de mas a la direccion."
+    },
+    {
+        "_id": "5ebcaa0fc8051c2698d9acd2",
+        "title": "resolve",
+        "type": "Module Path",
+        "search": "resolve arregla directorio transforma directorio",
+        "tech": "Node",
+        "use": "path.resolve('/this','is/what','../..','resolve')=/this/is/resolve",
+        "description": "Combina los string los corrigue les quita los signos demas y los escribe como una direccion de directorio."
+    },
+    {
+        "_id": "5ebcac4ac8051c2698d9acd3",
+        "title": "relative",
+        "type": "Module Path",
+        "search": "path.relative() direcciones parecidas semejansa en directorios",
+        "tech": "Node",
+        "use": "path.relative('/data/orandea/test/aaa', '/data/orandea/impl/bbb')=/../../impl/bb",
+        "description": "Compara la semejansa entre dos directorios regresa la direccion del segundo directorio con puntos cuando hay semejansa en directorios."
+    },
+    {
+        "_id": "5ebcacf9c8051c2698d9acd4",
+        "title": "dirname",
+        "type": "Module Path",
+        "search": "path.dirmane() nombre de directorio",
+        "tech": "Node",
+        "use": "path.dirname('/data/orandea/test/aaa.js')='/data/orandea/test'",
+        "description": "Regresa el nombre del directorio en el que se esta trabajando quitando el del archivo en ejecucion."
+    },
+    {
+        "_id": "5ebcad9bc8051c2698d9acd5",
+        "title": "extname",
+        "type": "Module Path",
+        "search": "path.extname() nombre de la extencion tipo de archivo",
+        "tech": "Node",
+        "use": "path.extname('aaa.js')='.js'",
+        "description": "Regresa el nombre de la extension del archivo en ejecucion."
+    },
+    {
+        "_id": "5ebcc378c8051c2698d9acd6",
+        "title": "parse",
+        "type": "Module Path",
+        "search": "path.parse() directorio a objeto transforma directorio convertir directorio",
+        "tech": "Node",
+        "use": "path.parse('/home/user/dir/file.txt')</br> { root: '/',</br>dir: '/home/user/dir',</br>base: 'file.txt',</br>ext: '.txt',</br>name: 'file' }'",
+        "description": "Convierte el directorio en un objeto."
+    },
+    {
+        "_id": "5ec329f0ff1f8b07e41e0aac",
+        "title": "readline",
+        "type": "Module",
+        "search": "readline",
+        "tech": "Node",
+        "use": "const readline=require('readline')",
+        "description": "Modulo de node que sirve para leer datos Note:No se puede usar directamente primero se le tiene que configurar la interfase con createInterface()"
+    },
+    {
+        "_id": "5ec33ab3ff1f8b07e41e0aad",
+        "title": "create Interface",
+        "type": "Module Readline",
+        "search": "createInterface() crear interfase de readline",
+        "tech": "Node",
+        "use": "var rl=readline.createInterface(process.stdin,process.stdout)",
+        "description": "Crea interface de readline."
+    },
+    {
+        "_id": "5ec341a8ff1f8b07e41e0aae",
+        "title": "question",
+        "type": "Module Readline",
+        "search": "rl.question() crear interfase de readline",
+        "tech": "Node",
+        "use": "rl.question('question',function(aswer){})",
+        "description": "Hace una pregunta recive dos parametros un string y un callback."
+    },
+    {
+        "_id": "5ec34fd8ff1f8b07e41e0aaf",
+        "title": "set Prompt",
+        "type": "Module Readline",
+        "search": "rl.setPrompt escribit ingresar datos añadir datos",
+        "tech": "Node",
+        "use": "rl.setPrompt('intruction')</br>rl.prompt()",
+        "description": "Set prompt recibe un texto que sera la instruccion del prompt de datos y para agregar datos se usa seguido del setprompt el metodo prompt()."
+    },
+    {
+        "_id": "5ec35393ff1f8b07e41e0ab0",
+        "title": "on",
+        "type": "Event",
+        "search": "eventos on() eventos con node events",
+        "tech": "Node",
+        "use": "module.on('event',function(){})",
+        "description": "El metodo on se usa para llamar eventos en cualquier modulo de node."
+    },
+    {
+        "_id": "5ec36c46ff1f8b07e41e0ab1",
+        "title": "close",
+        "type": "Module Readline Event",
+        "search": "rl.close() terminar proceso finalizar proceso evento close",
+        "tech": "Node",
+        "use": "rl.close() </br>rl.on('close',function(){})",
+        "description": "Finaliza el proceso del readline se puede usar el metodo simple para cerrar el proceso o para mas detalle se puede configurar el evento ."
+    },
+    {
+        "_id": "5ec372cfff1f8b07e41e0ab2",
+        "title": "line",
+        "type": "Module Readline Event",
+        "search": "rl.on('line') por cada linea por linea",
+        "tech": "Node",
+        "use": "rl.on('line',function(){})",
+        "description": "Evento que se ejecuta al ingresar una linea en el input."
+    },
+    {
+        "_id": "5ec4677b57e72c0eecdce262",
+        "title": "Buffer",
+        "type": "Module",
+        "search": "buffer crear un buffer",
+        "tech": "Node",
+        "use": "const buf1 = Buffer.alloc(10);</br>const buf3 = Buffer.allocUnsafe(10);</br>const buf4 = Buffer.from([1, 2, 3]);",
+        "description": "Un buffer es una array de datos este modulo nos permite manipular y crear buffers, no se debe requerir al modulo ya viene para uso global solo escribiendo la palabra <strong>Buffer</strong>,pero para usarlo se debe usar con un metodo <strong>Buffer.alloc,Buffer.from,Buffer.allounsafe, etc.</strong>"
+    },
+    {
+        "_id": "5ec4712657e72c0eecdce263",
+        "title": "alloc",
+        "type": "Module Buffer",
+        "search": "Buffer.alloc() crear un buffer",
+        "tech": "Node",
+        "use": "Buffer.alloc(length, values, encoding)</br>Buffer.alloc(length, values)</br>Buffer.alloc(length)",
+        "description": "Crea un buffer, recive tres parametros la longuitud del buffer, los valores dentro del buffer y la manera como va decodificar esos valores que viene por default en utf8 'ascii',tambien si no se le asigna valores rellena los valores con ceros 0"
+    },
+    {
+        "_id": "5ec4732857e72c0eecdce264",
+        "title": "alloc Unsafe",
+        "type": "Module Buffer",
+        "search": "Buffer.allocUnsafe() crear un buffer aleatorio",
+        "tech": "Node",
+        "use": "Buffer.allocUnsafe(length)",
+        "description": "Crea un buffer aleatorio con valores de bytes creados anteriormente Note:Si se quiere manipular el contenido del buffer usar Buffer.fill()"
+    },
+    {
+        "_id": "5ec47cf357e72c0eecdce265",
+        "title": "fill",
+        "type": "Module Buffer",
+        "search": "Buffer.fill() rellenar buffer llenar buffer",
+        "tech": "Node",
+        "use": "Buffer.fill(values,offset,end,encoding)</br>Buffer.fill(values,encoding)",
+        "description": "Rellena un buffer con los valores especificados recive cuatro parametros los valores, offset:el numero desde donde empieze a rellenar el buffer, end:hasta donde rellar el buffer,encoding:la manera en como va a interpretar esos datos (por default utf8-ascii)"
+    },
+    {
+        "_id": "5ec480e357e72c0eecdce266",
+        "title": "write",
+        "type": "Module Buffer",
+        "search": "Buffer.write() escribir en buffer añadir a buffer agregar a buffer",
+        "tech": "Node",
+        "use": "Buffer.write('str',offset,end,encoding)</br>Buffer.fill(values,encoding)",
+        "description": "Los caracteres que va a escribir en el buffer, offset:el numero desde donde empieze a escribir el buffer, end:hasta donde escribe en el buffer,encoding:la manera en como va a interpretar esos datos (por default utf8-ascii)"
+    },
+    {
+        "_id": "5ec4a5e257e72c0eecdce267",
+        "title": "events",
+        "type": "Module",
+        "search": "eventos modulo de eventos añadir eventos agregar eventos crear eventos",
+        "tech": "Node",
+        "use": "const events=require('events')",
+        "description": "Modulo para crear eventos en node Note:para crear evento usar events.EventEmitter()"
+    },
+    {
+        "_id": "5ec4a70357e72c0eecdce268",
+        "title": "Event Emitter",
+        "type": "Module Events",
+        "search": "EventEmitter() añadir eventos agregar eventos crear eventos",
+        "tech": "Node",
+        "use": "const EventEmitter=events.EventEmitter()</br>const emitter=new EventEmitter()</br>emitter.on('nombredeEvento',function(){})",
+        "description": "Crea emitidor de eventos Note: para activar evento usar emitter.emit()."
+    },
+    {
+        "_id": "5ec4babd57e72c0eecdce269",
+        "title": "emit",
+        "type": "Module Events",
+        "search": "emit() activar evento llamar evento",
+        "tech": "Node",
+        "use": "emitter.emit('nombreEvento')</br>emitter.emit('nombreEvento',argumento1,argumento2)",
+        "description": "Llama eventos creados previamente."
+    },
+    {
+        "_id": "5ec5b21217864d19d453561a",
+        "title": "Remove All Listeners",
+        "type": "Module Events",
+        "search": "removeAllListeners() borra eventos quita eventos desactiva eventos",
+        "tech": "Node",
+        "use": "emitter.removeAllListeners('nombreEventos')</br>emitter.removeAllListeners()",
+        "description": "Borra los eventos creados si se especifica el nombre borra solo los eventos de esa instancia si no se especifica el nombre del evento borra todos los eventos."
+    },
+    {
+        "_id": "5ec5cf7417864d19d453561b",
+        "title": "exports",
+        "type": "Property",
+        "search": "module.exports exportar modulo enviar modulo crear modulo",
+        "tech": "Node",
+        "use": "module.exports=functionName</br>module.exports={one:function(){},</br> two:function(){}}",
+        "description": "Exporta un modulo ,para requerir al modulo exportado </br>ejm1:const name=require('ubicacion/nombre de funcion')</br>ejm2:const name=require('./ubicacion/nombre del archivo')</br>name.one(),name.two()."
+    },
+    {
+        "_id": "5ec5e2fc17864d19d453561c",
+        "title": "Child Process",
+        "type": "Module",
+        "search": "exec child_process procesos internor procesos de terminal procesos de linea de comando",
+        "tech": "Node",
+        "use": "const child_process=require('child_process')",
+        "description": "Modulo Que sirve para ejecutar comandos de terminal en codigo directamente"
+    },
+    {
+        "_id": "5ec5e44a17864d19d453561d",
+        "title": "exec",
+        "type": "Module Child Process",
+        "search": "child_process.exec() escribir comando linea de comando",
+        "tech": "Node",
+        "use": "child_process.exec('comando',function(err,stdout){console.log(stdout)})</br>child_process.exec('./ubicacion/ejm.js',function(err,stdout){console.log(stdout)})",
+        "description": "Metodo para usar comando del terminal y para mostrar el contenido de cualquier archivo"
+    },
+    {
+        "_id": "5ec5f91c17864d19d453561e",
+        "title": "spawn",
+        "type": "Module Child Process",
+        "search": "child_process.spawn() escribir comandos linea de comando",
+        "tech": "Node",
+        "use": "const child=child_process.spawn('comando o archivo',[arg],[opt])</br>child.stdout.on('data',function(){})</br>",
+        "description": "Sirve para ejecutar comandos de terminal desde el archivo,es igual que el metodo <strong>exec()</strong> solo que enves de ejecutar un solo comando se puede ejecutar una serie de comandos, puede recivir hasta tres argumentos el primero es el comando inicial o ubicacion de archivo, el segundo la serie de comandos a ejecutar y el tercero opciones del metodo"
+    },
+    {
+        "_id": "5ec5fe1917864d19d453561f",
+        "title": "File System",
+        "type": "Module",
+        "search": "fs sistema de directorio sistema de archivos",
+        "tech": "Node",
+        "use": "const fs=require('fs')",
+        "description": "Modulo para manejar el sistema de archivos y directorios en nuestro ordenador desde node"
+    },
+    {
+        "_id": "5ec6020a17864d19d4535620",
+        "title": "Write File",
+        "type": "Module Fs",
+        "search": "writeFile() crear archivo crear documento agregar informacion agregar datos escribir en archivo",
+        "tech": "Node",
+        "use": "fs.writeFile(file, 'data'[, options], function(){})",
+        "description": "Sirve para escribir contenido en un archivo o para crear un archivo, recive tres parametros 3 obligatorios y uno opcional el parametro file es el nombre del archivo, data es el contenido , option es opcional y se usa para especificar opciones del metodo,y la function que permite indentificar cualquier tipo de error "
+    },
+    {
+        "_id": "5ec6066017864d19d4535621",
+        "title": "read dir Sync",
+        "type": "Module Fs",
+        "search": "readdirSync() ubicacion de archivos elementos en directorio",
+        "tech": "Node",
+        "use": "fs.readdirSync('./');",
+        "description": "Muestra los archivos en el directorio indicado"
+    },
+    {
+        "_id": "5ec6081017864d19d4535622",
+        "title": "read dir",
+        "type": "Module Fs",
+        "search": "readdir() ubicacion de archivos elementos en directorio",
+        "tech": "Node",
+        "use": "fs.readdir('./',function(error,data){});",
+        "description": "Muestra los archivos en el directorio indicado y muestra un error si lo hay"
+    },
+    {
+        "_id": "5ec617f617864d19d4535623",
+        "title": "read FileSync",
+        "type": "Module Fs",
+        "search": "readFileSync() leer archivo leer documento",
+        "tech": "Node",
+        "use": "const data=fs.readFileSync('./text.txt','UTF-8');",
+        "description": "Lee un archivo, si no se especifica el tipo de formato para interpretar lo regresa como datos binarios."
+    },
+    {
+        "_id": "5ec623c317864d19d4535624",
+        "title": "read File",
+        "type": "Module Fs",
+        "search": "readFile() leer archivo leer documento",
+        "tech": "Node",
+        "use": "const data=fs.readFile('./text.txt','UTF-8',function(error,data){});",
+        "description": "Lee un archivo, si no se especifica el tipo de formato para interpretar lo regresa como datos binarios, recive una function para identificar errores."
+    },
+    {
+        "_id": "5ec624a317864d19d4535625",
+        "title": "Write FileSync",
+        "type": "Module Fs",
+        "search": "writeFileSync() crear archivo crear documento agregar informacion agregar datos escribir en archivo",
+        "tech": "Node",
+        "use": "fs.writeFileSync(file, 'data'[, options])",
+        "description": "Sirve para escribir contenido en un archivo o para crear un archivo, recive tres parametros 3 obligatorios y uno opcional el parametro file es el nombre del archivo, data es el contenido , option es opcional y se usa para especificar opciones del metodo."
+    },
+    {
+        "_id": "5ec7032e1de6652f88089d39",
+        "title": "exists Sync",
+        "type": "Module Fs",
+        "search": "existsSync() buscar archivo buscar elemento buscar directorio",
+        "tech": "Node",
+        "use": "fs.existsSync(archivo)",
+        "description": "Busca archivo o directorio si existe regresa true sino false."
+    },
+    {
+        "_id": "5ec706ac1de6652f88089d3a",
+        "title": "access",
+        "type": "Module Fs",
+        "search": "access() buscar archivo buscar elemento buscar directorio",
+        "tech": "Node",
+        "use": "fs.access(path[,mode],function(err){})</br>mode:</br>fs.constants.F_OK //si existe el archivo</br>fs.constants.R_OK // si es leible</br>fs.constants.W_OK //si es modificable",
+        "description": "Busca archivo o directorio recive tres parametros path es la ubicacion del archivo,mode es opcional y es el modo en el q va a buscar,la funcion callback, regresa verdadero si lo encuentra sino falso."
+    },
+    {
+        "_id": "5ec71c061de6652f88089d3b",
+        "title": "mkdir Sync",
+        "type": "Module Fs",
+        "search": "fs.mkdirSync() crear carpeta crear directorio crear archivo",
+        "tech": "Node",
+        "use": "fs.mkdirSync(path[, options])",
+        "description": "Sirve para crear directorios o archivos."
+    },
+    {
+        "_id": "5ec71cb71de6652f88089d3c",
+        "title": "mkdir",
+        "type": "Module Fs",
+        "search": "fs.mkdir() crear carpeta crear directorio crear archivo",
+        "tech": "Node",
+        "use": "fs.mkdirSync(path[, options],function(err){})",
+        "description": "Sirve para crear directorios o archivos."
+    },
+    {
+        "_id": "5ec727881de6652f88089d3d",
+        "title": "rename",
+        "type": "Module Fs",
+        "search": "fs.rename() renombrar archivo cambiar nombre",
+        "tech": "Node",
+        "use": "fs.rename('path','newName',function(err){})",
+        "description": "Sirve para cambiar el nombre de un archivo o directorio."
+    },
+    {
+        "_id": "5ec727ad1de6652f88089d3e",
+        "title": "rename Sync",
+        "type": "Module Fs",
+        "search": "fs.renameSync() renombrar archivo cambiar nombre",
+        "tech": "Node",
+        "use": "fs.renameSync('path','newpath')",
+        "description": "Sirve para cambiar el nombre de un archivo o directorio."
+    },
+    {
+        "_id": "5ec729ba1de6652f88089d3f",
+        "title": "unlink Sync",
+        "type": "Module Fs",
+        "search": "fs.unlinkSync() borrar directorio eliminar directorio borrar carpeta eliminar carpeta borrar archivo borrar archivo",
+        "tech": "Node",
+        "use": "fs.unlinkSync('path')",
+        "description": "Sirve para borrar archivos."
+    },
+    {
+        "_id": "5ec729d51de6652f88089d40",
+        "title": "unlink",
+        "type": "Module Fs",
+        "search": "fs.unlink() borrar directorio eliminar directorio borrar carpeta eliminar carpeta borrar archivo borrar archivo",
+        "tech": "Node",
+        "use": "fs.unlink('path',function(err){})",
+        "description": "Sirve para borrar archivos."
+    },
+    {
+        "_id": "5ec747ec1de6652f88089d41",
+        "title": "data",
+        "type": "Module Stream Event",
+        "search": "data evento data",
+        "tech": "Node",
+        "use": "stream.on('data',function(chunk){})",
+        "description": "Cada chunck o corro de datos se ejecuta este evento."
+    },
+    {
+        "_id": "5ec749081de6652f88089d42",
+        "title": "end",
+        "type": "Module Stream Event",
+        "search": "data evento end al final del stream terminar stream finalizar stream",
+        "tech": "Node",
+        "use": "stream.on('end',function(){})",
+        "description": "Se ejecuta al finalizar el stream."
+    },
+    {
+        "_id": "5ec760851de6652f88089d43",
+        "title": "create ReadStream",
+        "type": "Module Fs",
+        "search": "fs.createReadStream() crear stream leer stream",
+        "tech": "Node",
+        "use": "const stream=fs.createReadStream(path, ['UTF-8'])",
+        "description": "Sirve para crear un stream de lectura,el parametro de opciones es opcional nos permite especificar el formato con que va decodificar al stream."
+    },
+    {
+        "_id": "5ec762aa1de6652f88089d44",
+        "title": "create WriteStream",
+        "type": "Module Fs",
+        "search": "fs.createWriteStream() crear stream escribir stream",
+        "tech": "Node",
+        "use": "const stream=fs.createWriteStream(path)",
+        "description": "Sirve para crear un stream de escritura."
+    },
+    {
+        "_id": "5ec84c3e5279c3222403379d",
+        "title": "append FileSync",
+        "type": "Module Fs",
+        "search": "fs.appendFileSync() agregar contenido  escribir contenido añadir contenido escribir en archivo",
+        "tech": "Node",
+        "use": "fs.appendFileSync('path', data[, options])",
+        "description": "Sirve para agregar contenido a un archivo ya creado resive tres parametros la ubicacion del archivo los datos de contenido y un parametro opcional que es la configuracion."
+    },
+    {
+        "_id": "5ec852225279c3222403379e",
+        "title": "write",
+        "type": "Module Stream",
+        "search": "stream.write() agregar contenido  escribir contenido añadir contenido escribir en archivo",
+        "tech": "Node",
+        "use": "stream.write(data[, encoding][, function(err){}])",
+        "description": "Sirve para agregar contenido a un archivo ya creado, resive  tres parametros los datos, el formato de interpretacion que es opcional y una funcion callback que tambien es opcional."
+    },
+    {
+        "_id": "5ec852885279c3222403379f",
+        "title": "close",
+        "type": "Module Stream",
+        "search": "stream.close() cerrar stream finalizar stream terminar stream",
+        "tech": "Node",
+        "use": "stream.close()",
+        "description": "Sirve para cerrar el stream"
+    },
+    {
+        "_id": "5ecc36b20e49940b5c0e8b8c",
+        "title": "Http",
+        "type": "Module",
+        "search": "http protocolo http DOM http",
+        "tech": "Node",
+        "use": "const http=require('http')",
+        "description": "Sirve para usar el Modulo de http"
+    },
+    {
+        "_id": "5ecc40b00e49940b5c0e8b8d",
+        "title": "request",
+        "type": "Module http",
+        "search": "http.request() llamar url requerir url llamado a url peticion url",
+        "tech": "Node",
+        "use": "http.request(options[, function(){}])</br>http.request(url[, options][, callback])</br>let options={</br>hostname:'dominio url',</br>port:300, //80 default</br>path:'/el /resto de/ la/ url sin dominio,</br>method:'GET' //tipo de peticion ",
+        "description": "Peticion http se puede usar mediante un objeto options que se lo configura antes de una peticion o con la url directo como propiedad en el metodo"
+    },
+    {
+        "_id": "5ecc4ca00e49940b5c0e8b8e",
+        "title": "error",
+        "type": "Module http Event",
+        "search": "error evento de error peticion fallida peticion denegada  error de peticion",
+        "tech": "Node",
+        "use": "req.on('error',function (res){})",
+        "description": "Evento de error de peticion http"
+    },
+    {
+        "_id": "5ecc4dea0e49940b5c0e8b8f",
+        "title": "end",
+        "type": "Module http",
+        "search": "final de peticion cerrar peticion http terminar peticion http finalizar peticion http",
+        "tech": "Node",
+        "use": "req.end()",
+        "description": "Metodo para finalizar peticion"
+    },
+    {
+        "_id": "5ecc57f80e49940b5c0e8b90",
+        "title": "data",
+        "type": "Module http Request",
+        "search": "res.data res.on('data') imprimir datos peticion exitosa ",
+        "tech": "Node",
+        "use": "res.data</br>res.on('data',function(chunk){})",
+        "description": "Al ser exitosa la peticion muestra los datos"
+    },
+    {
+        "_id": "5ecc58c30e49940b5c0e8b91",
+        "title": "end",
+        "type": "Module http Request",
+        "search": "res.end() res.on('end') finaliza la peticion",
+        "tech": "Node",
+        "use": "res.end()</br>res.on('end',function(){})",
+        "description": "Al ser exitosa la peticion se ejecuta antes de finalizar la peticion"
+    },
+    {
+        "_id": "5ecc5c4b0e49940b5c0e8b92",
+        "title": "create Server",
+        "type": "Module http",
+        "search": "http.createServer() crear servidor http",
+        "tech": "Node",
+        "use": "http.createServer((req,res)=>{}).listen(3000)",
+        "description": "Metodo para crear servidor y se le asigna con el metodo listen al puerto 3000 Note:Lo siquiente seria configurar el servidor"
+    },
+    {
+        "_id": "5ecc657c0e49940b5c0e8b93",
+        "title": "write Head",
+        "type": "Module http createServer",
+        "search": "res.writeHead() configurar el servidor configuracion del servidor",
+        "tech": "Node",
+        "use": "res.writeHead(statusCode, [message],[headers])</br>ejm:res.writeHead(200, {'Content-type':'text/html'})",
+        "description": "Configura el servidor recive tres parametros el statuscode: que es el codigo numerico de estado del servidor se usa 200 para determinar que el servidor a sido creado, un mensaje que es opcional y los headers: que es un objeto que va a determinar la configuracion del servidor <strong>Note: ya creado y configurado el servidor para mostrar el contenido se usa el metodo end()</strong>"
+    },
+    {
+        "_id": "5ecc6bbd0e49940b5c0e8b94",
+        "title": "end",
+        "type": "Module http createServer",
+        "search": "res.end() imprimir contenido en el servidor mostrar contenido",
+        "tech": "Node",
+        "use": "res.end[data[, encoding]][, function(){}]</br>ejm1:res.end(nombredearchivo)</br>ejm2:res.end(`<html><head><body>........</body></head></html>`)",
+        "description": "Para mostrar algo en el servidor y url establecidos, resive tres parametros la data:que puede ser el nombre de archivo requerido o el codigo escrito directamente dentro del metodo,el encoding es la manera en como va interpretar los datos es opcional, una funcion callback tambien opcional"
+    },
+    {
+        "_id": "5ecd69e1946c3029b0906823",
+        "title": "send Date",
+        "type": "Module http response",
+        "search": "sendDate fecha de respuesta del servidor hora de conexion",
+        "tech": "Node",
+        "use": "res.sendDate",
+        "description": "Propiedad que sirve para mostrar la fecha y hora en el que el servidor respondio"
+    },
+    {
+        "_id": "5ecd6a96946c3029b0906824",
+        "title": "socket",
+        "type": "Module http response",
+        "search": "socket socket en uso socket usado",
+        "tech": "Node",
+        "use": "res.socket",
+        "description": "Muestra el socket el cual se uso para recivir la respuesta."
+    },
+    {
+        "_id": "5ecd6b60946c3029b0906825",
+        "title": "status Code",
+        "type": "Module http response",
+        "search": "statusCode estado de conexion estado de peticion",
+        "tech": "Node",
+        "use": "res.statusCode",
+        "description": "Muestra el estado de la peticion con el servidor"
+    },
+    {
+        "_id": "5ecd78e8946c3029b0906826",
+        "title": "url",
+        "type": "Module http request",
+        "search": "url obtener url dirccion url",
+        "tech": "Node",
+        "use": "req.url",
+        "description": "Devuelve la url de la solicitud al servidor"
+    },
+    {
+        "_id": "5ece9e210fdefe16f0b9a552",
+        "title": "httpster",
+        "type": "Dependency",
+        "search": "servidor para aplicaciones",
+        "tech": "Npm",
+        "use": "npm -g install httpster",
+        "description": "Sirve para establecer un servidor de manera muy sencilla.</br><strong>ejm:httpster -p 8080 -d ./carpetaDelProyecto</br>-p //puerto</br>-d  //directorio</strong>"
+    },
+    {
+        "_id": "5eceac980fdefe16f0b9a553",
+        "title": "nodemon",
+        "type": "Dependency",
+        "search": "servidor automatico reinicio automatico",
+        "tech": "Npm",
+        "use": "npm install -g nodemon",
+        "description": "Sirve para reiniciar el servidor de manera automatica, solo sirve con archivos.js</br>ejm1:nodemon ./nombredearchivo.js "
+    },
+    {
+        "_id": "5eceb8ed0fdefe16f0b9a554",
+        "title": "node dev",
+        "type": "Dependency",
+        "search": "servidor automatico reinicio automatico",
+        "tech": "Npm",
+        "use": "npm install -g node-dev",
+        "description": "Sirve para reiniciar el servidor de manera automatica, solo sirve con archivos.js</br>ejm1:node-dev ./nombredearchivo.js "
+    },
+    {
+        "_id": "5ecedf1f0fdefe16f0b9a555",
+        "title": "express",
+        "type": "Dependency",
+        "search": "express",
+        "tech": "Express",
+        "use": "npm i express",
+        "description": "Express es una framework para backend en node</br>const express=require('express')"
+    },
+    {
+        "_id": "5eceec4a0fdefe16f0b9a556",
+        "title": "get",
+        "type": "Express",
+        "search": "metodo get app.get() peticion get obtener solicitud get obtener datos obtener informacion",
+        "tech": "Node",
+        "use": "app.get('./path',function(req,res){res.send()})",
+        "description": "Sirve para hacer una peticion metodo get para obtener informacion es lo mismo que </br><strong>http.createServer((req,res)=>{if(req.method=='GET'){res.end()]}</strong>"
+    },
+    {
+        "_id": "5eceedfc0fdefe16f0b9a557",
+        "title": "post",
+        "type": "Express",
+        "search": "metodo post app.post() peticion get enviar solicitud get enviar datos enviar informacion",
+        "tech": "Node",
+        "use": "app.post('./path',function(req,res){res.send()})",
+        "description": "Sirve para hacer una peticion metodo post para enviar informacion es lo mismo que </br><strong>http.createServer((req,res)=>{if(req.method=='POST'){res.end()]}</strong>"
+    },
+    {
+        "_id": "5ecef2910fdefe16f0b9a558",
+        "title": "url",
+        "type": "Module",
+        "search": "url modulo url",
+        "tech": "Node",
+        "use": "const url=require('url')",
+        "description": "Modulo que sirve para manejar direcciones url"
+    },
+    {
+        "_id": "5ecefed40fdefe16f0b9a559",
+        "title": "parse",
+        "type": "Module url",
+        "search": "url.parse murl a objeto convertir url transformar url",
+        "tech": "Node",
+        "use": "url.parse(urlString,true);",
+        "description": "Tranforma la url en un objeto, acepta dos propiedades una string de la url y un valor booleano que debe ir true para convertir toda la url y asignar a la propiedades del objeto las partes del url."
+    },
+    {
+        "_id": "5ecf019c0fdefe16f0b9a55a",
+        "title": "query",
+        "type": "Module url parse",
+        "search": "parse().query ",
+        "tech": "Node",
+        "use": "parse(urlString).query ",
+        "description": "Sirve para obtener en un objeto todo los valores variables de una url.."
+    },
+    {
+        "_id": "5ed1e01b031d5a26acf7fc6f",
+        "title": "stop",
+        "type": "pm2",
+        "search": "pm2 stop detener pm2 detener ejecucion de archivo",
+        "tech": "Node",
+        "use": "pm2 stop app.js",
+        "description": "Detiene la ejecucion permanente de un archivo en node"
+    },
+    {
+        "_id": "5ed1e0af031d5a26acf7fc70",
+        "title": "restart",
+        "type": "pm2",
+        "search": "pm2 restart reinicia pm2 reinicia ejecucion de archivo",
+        "tech": "Node",
+        "use": "pm2 restart app.js",
+        "description": "Reinicia la ejecucion permanente de un archivo en node"
+    },
+    {
+        "_id": "5ed1e117031d5a26acf7fc71",
+        "title": "delete",
+        "type": "pm2",
+        "search": "pm2 delete borra pun archivo",
+        "tech": "Node",
+        "use": "pm2 delete app.js",
+        "description": "Elimina de la lista de ejecucion un archivo."
+    },
+    {
+        "_id": "5ed1e175031d5a26acf7fc72",
+        "title": "describe",
+        "type": "pm2",
+        "search": "pm2 describe describe en detalle el archivo ejecutado",
+        "tech": "Node",
+        "use": "pm2 describe app.js",
+        "description": "Describe detalles del archivo en ejecucion."
+    },
+    {
+        "_id": "5ed1e20c031d5a26acf7fc73",
+        "title": "list",
+        "type": "pm2",
+        "search": "pm2 lista de archivos en ejecucion",
+        "tech": "Node",
+        "use": "pm2 list",
+        "description": "Nos muestra la lista de todos los archivos ejecutandose por pm2"
+    },
+    {
+        "_id": "5f0e6759b44bbd207c9aa8c8",
+        "title": "to i",
+        "type": "Method-Number",
+        "search": "to.i convertir a entero flotante a entero numero flotante a entero",
+        "tech": "Ruby",
+        "use": "3.14.to_i",
+        "description": "Convierte un numero de flotante a entero."
+    },
+    {
+        "_id": "5f0e680fb44bbd207c9aa8c9",
+        "title": "to f",
+        "type": "Method-Number",
+        "search": "to.f convertir a flotante convertir numero entero a decimal",
+        "tech": "Ruby",
+        "use": "3.14.to_f",
+        "description": "Convierte un numero de entero a decimal."
+    },
+    {
+        "_id": "5f0e6892b44bbd207c9aa8ca",
+        "title": "even?",
+        "type": "Method-Number",
+        "search": ".even? es par numero par",
+        "tech": "Ruby",
+        "use": "3.14.even?",
+        "description": "Regresa verdadero si el numero es par sino regresa falso"
+    },
+    {
+        "_id": "5f0e68c5b44bbd207c9aa8cb",
+        "title": "odd?",
+        "type": "Method-Number",
+        "search": ".odd? es impar numero impar",
+        "tech": "Ruby",
+        "use": "3.14.odd?",
+        "description": "Regresa verdadero si el numero es impar sino regresa falso"
+    },
+    {
+        "_id": "5f0e6e03b44bbd207c9aa8cc",
+        "title": "Range",
+        "type": "Property",
+        "search": "rango range [..]",
+        "tech": "Ruby",
+        "use": "[1..5]  // [1,2,3,4,5]<br>hello[0..2] // hel",
+        "description": "Es una propierdad que se puede usar con strings o arrays en un string regresa las letras del string entre esos rangos y en un array regresa  todos los numero conteniendo esos rangos"
+    },
+    {
+        "_id": "5f0e6eebb44bbd207c9aa8cd",
+        "title": "Interpolation",
+        "type": "Property",
+        "search": "#{} interpolacion interpolar",
+        "tech": "Ruby",
+        "use": "#{val}",
+        "description": "La interpolacion en ruby se hace con un signo de numeral y ademas enves de las comillas reversas se usa las dobles comillas"
+    },
+    {
+        "_id": "5f0e7101b44bbd207c9aa8ce",
+        "title": "include",
+        "type": "Method-String Method-Array",
+        "search": ".include? incluye buscar caracter buscar elemento",
+        "tech": "Ruby",
+        "use": "hello.include?(&quot; h &quot;)  //true",
+        "description": "Es un metodo que se puede usar tanto en string como array y regresa verdadero si el elemento esta en el string o array y falso si no esta"
+    },
+    {
+        "_id": "5f0e71c8b44bbd207c9aa8cf",
+        "title": "capitalize",
+        "type": "Method-String",
+        "search": ".capitalize  mayuscula",
+        "tech": "Ruby",
+        "use": "hello.capitalize<br>hello.capitalize()",
+        "description": "Es un metodo que convierte la primera letra del string en mayuscula"
+    },
+    {
+        "_id": "5f0e7240b44bbd207c9aa8d0",
+        "title": "upcase",
+        "type": "Method-String",
+        "search": ".capitalize  mayusculas todo a mayusculas",
+        "tech": "Ruby",
+        "use": "hello.upcase",
+        "description": "Es un metodo que convierte toda la palabra en mayusculas"
+    },
+    {
+        "_id": "5f0e72a1b44bbd207c9aa8d1",
+        "title": "downcase",
+        "type": "Method-String",
+        "search": ".downcase  minusculas todo a minusculas letras minusculas",
+        "tech": "Ruby",
+        "use": "hello.downcase",
+        "description": "Es un metodo que convierte toda la palabra en minusculas"
+    },
+    {
+        "_id": "5f0e8115b44bbd207c9aa8d2",
+        "title": "empty?",
+        "type": "Method-String Method-Array",
+        "search": ".empty? esta vacio elemento vacio",
+        "tech": "Ruby",
+        "use": "&quot;string&quot;.empty?<br>[array].empty?",
+        "description": "Metodo para array y string que devuelve verdadero si el elemento esta vacio y falso si no lo esta"
+    },
+    {
+        "_id": "5f0e823ab44bbd207c9aa8d3",
+        "title": "reverse",
+        "type": "Method-String",
+        "search": ".reverse invierte el orden de un elemento",
+        "tech": "Ruby",
+        "use": "&quot;string&quot;.reverse",
+        "description": "invierte un string"
+    },
+    {
+        "_id": "5f0e8268b44bbd207c9aa8d4",
+        "title": "reverse()",
+        "type": "Method-Array",
+        "search": ".reverse() invierte el orden de un elemento",
+        "tech": "Ruby",
+        "use": "[array].reverse()",
+        "description": "invierte el orden de los elementos en un array"
+    },
+    {
+        "_id": "5f0e83b1b44bbd207c9aa8d5",
+        "title": "split",
+        "type": "Method-String",
+        "search": ".split() convertir un string en array transformar un string en array string a array",
+        "tech": "Ruby",
+        "use": "&quot;string&quot;.split(&quot;&quot;)",
+        "description": "Convierte un string a un array tomando como referencia un caracter"
+    },
+    {
+        "_id": "5f0e8c7ab44bbd207c9aa8d6",
+        "title": "strip",
+        "type": "Method-String",
+        "search": ".strip trim quitar espacios",
+        "tech": "Ruby",
+        "use": "&quot; string&quot;.strip",
+        "description": "Quitar espacios en blanco al inicio y finaldel string"
+    },
+    {
+        "_id": "5f0e8db6b44bbd207c9aa8d7",
+        "title": "sub",
+        "type": "Method-String",
+        "search": ".sub() cortar caracteres remplazar caracteres",
+        "tech": "Ruby",
+        "use": "&quot;string&quot;.sub(&quot;2&quot; , &quot;y&quot;)  //stying",
+        "description": "Remplaza un caracter en el indice indicado por el caracter o signo indicado"
+    },
+    {
+        "_id": "5f0e8eefb44bbd207c9aa8d8",
+        "title": "object_id",
+        "type": "Property",
+        "search": ".object_id id del elemento",
+        "tech": "Ruby",
+        "use": "element.object_id",
+        "description": "Regresa el id del elemento en ruby<br><strong>Note:solo los simbolos tienen un id unico</strong>"
+    },
+    {
+        "_id": "5f10dbdbc3642212203be3f0",
+        "title": "print",
+        "type": "Method",
+        "search": "print imprimir mostrar",
+        "tech": "Ruby",
+        "use": "print element",
+        "description": "Se usa para imprimir algo en el terminal igual que un console.log en javascript, a differencia de los otros metodos es que con este metodo imprime sin un salto de linea <strong>Referencia: p, puts</strong>"
+    },
+    {
+        "_id": "5f10dc14c3642212203be3f1",
+        "title": "puts",
+        "type": "Method",
+        "search": "puts imprimir mostrar",
+        "tech": "Ruby",
+        "use": "puts element",
+        "description": "Se usa para imprimir algo en el terminal igual que un console.log en javascript, a differencia de los otros metodos es que con este metodo imprime con un salto de linea <strong>Referencia: p, print</strong>"
+    },
+    {
+        "_id": "5f11058e21e84929e4aa0be6",
+        "title": "p",
+        "type": "Method",
+        "search": "p imprimir mostrar",
+        "tech": "Ruby",
+        "use": "p element",
+        "description": "Se usa para imprimir algo en el terminal igual que un console.log en javascript, a differencia de los otros metodos este muestra el elemento completo 'si es un array muestra los corchetes' y todo los signos que formen al elemento<strong>Referencia: p, print</strong>"
+    },
+    {
+        "_id": "5f11093121e84929e4aa0be7",
+        "title": "gets",
+        "type": "Method",
+        "search": "gets escribir en terminal input ingresar datos prompt",
+        "tech": "Ruby",
+        "use": "gets",
+        "description": "Se usa para abrir un input y escribir texto y asignar datos para usarlos en el codigo el input se cierra al aplaster la tecla enter. <strong>Referencia:prompt Javascript</strong>"
+    },
+    {
+        "_id": "5f110a6221e84929e4aa0be8",
+        "title": "chomp",
+        "type": "Method",
+        "search": "gets.chomp chomp trim quitar espacios extra",
+        "tech": "Ruby",
+        "use": "gets.chomp",
+        "description": "Se usa para quitar el espacio al imprimir un dato en el terminal, se usa comunmente con el metodo gets"
+    },
+    {
+        "_id": "5f110b2521e84929e4aa0be9",
+        "title": "putc",
+        "type": "Method",
+        "search": "putc imprimir una letra mostrar una letra",
+        "tech": "Ruby",
+        "use": "putc &quot;string&quot;",
+        "description": "Se usa para imprimir una letra de un string .<strong>Referencia: puts, print</strong>"
+    },
+    {
+        "_id": "5f11103d21e84929e4aa0bea",
+        "title": "eql?",
+        "type": "Method",
+        "search": ".eql? compara dos valores igualdades igualdad son lo mismo comparar dos elementos",
+        "tech": "Ruby",
+        "use": "&quot;qw&quot;eql?(&quot;qw&quot;)  // true<br>&quot;QW&quot;eql?(&quot;qw&quot;)  // false<br>[1,2,3]eql?.[1,2,3] //true <br>[1,2,3]eql?.[3,2,5] // false",
+        "description": "Se usa para comparar dos elementos si son exactamente iguales en su valor y funciona con cualquier clase de dato <strong>Note: equal?</strong>"
+    },
+    {
+        "_id": "5f11127121e84929e4aa0beb",
+        "title": "equal?",
+        "type": "Method",
+        "search": ".equal? si los elementos son los mismos en memoria el mismo elemento",
+        "tech": "Ruby",
+        "use": "&quot;qw&quot;equal?(&quot;qw&quot;)  // false<br>a=&quot;QW&quot;<br>a.equal?(a)  // true",
+        "description": "Se usa para comparar si dos elementos son exactamente los mismo en memoria, no importa si tiene el mismo valor regresa falso solo regresa verdadero si el elemento es el mismo guardado en memoria."
+    },
+    {
+        "_id": "5f11160321e84929e4aa0bec",
+        "title": "spaceship operator",
+        "type": "Operator",
+        "search": "<=>",
+        "tech": "Ruby",
+        "use": "5 <=> 6  // -1",
+        "description": "Se usa para comparar valores si el valor de la izquierda es menor regresa -1 si son igules 0 y si el de la derecha es menor 1."
+    },
+    {
+        "_id": "5f111e4821e84929e4aa0bed",
+        "title": "loop",
+        "type": "Iterator",
+        "search": "loop iterator loop iterador loop",
+        "tech": "Ruby",
+        "use": "loop {puts 'hola'} ",
+        "description": "Es un iterador que itera infinitamente hasta detenerlo."
+    },
+    {
+        "_id": "5f111ef321e84929e4aa0bee",
+        "title": "times",
+        "type": "Iterator",
+        "search": "times iterator loop iterador loop",
+        "tech": "Ruby",
+        "use": "5.times {puts 'hola'}",
+        "description": "Ejecuta la iteracion el numero de veces establecido."
+    },
+    {
+        "_id": "5f111fc821e84929e4aa0bef",
+        "title": "upto",
+        "type": "Iterator",
+        "search": "upto iterator loop iterador loop iterador de rango",
+        "tech": "Ruby",
+        "use": "5.upto(10) {|num| puts num} // 5 6 7 8 9 10",
+        "description": "Se usa para iterar con un rango."
+    },
+    {
+        "_id": "5f11201221e84929e4aa0bf0",
+        "title": "downto",
+        "type": "Iterator",
+        "search": "downto iterator loop iterador loop iterador de rango",
+        "tech": "Ruby",
+        "use": "10.downto(5) {|num| puts num} // 10 9 8 7 6 5",
+        "description": "Se usa para iterar con un rango pero de manera decendente."
+    },
+    {
+        "_id": "5f11331321e84929e4aa0bf1",
+        "title": "abs",
+        "type": "Method-Number",
+        "search": ".abs valor absoluto",
+        "tech": "Ruby",
+        "use": "-3.abs // 3",
+        "description": "Se usa para retornanr el valor absoluto de un numero."
+    },
+    {
+        "_id": "5f1133f721e84929e4aa0bf2",
+        "title": "next",
+        "type": "Method-Number",
+        "search": ".next numero siguiente",
+        "tech": "Ruby",
+        "use": "3.next // 4",
+        "description": "Regresa el numero siguiente."
+    },
+    {
+        "_id": "5f1135bf21e84929e4aa0bf3",
+        "title": "Methods",
+        "type": "Method",
+        "search": "ayuda .methods metodos del elemento help",
+        "tech": "Ruby",
+        "use": "element.methods ",
+        "description": "Muestra todos los metodos que se pueden usar con el tipo de dato del elemento."
+    },
+    {
+        "_id": "5f11399c21e84929e4aa0bf4",
+        "title": "Array new",
+        "type": "Method-Array",
+        "search": "Array.new() constructor de array crear un array new Array",
+        "tech": "Ruby",
+        "use": "Array.new(3, 'elemento') // [elemento ,elemento, elemento]",
+        "description": "Crea un array, resive dos parametros el primero el numero de elementos del array y el segundo el elemento que va a llenar el array."
+    },
+    {
+        "_id": "5f11c5e4c5660c287c71236b",
+        "title": "%w",
+        "type": "Array Property",
+        "search": "%w[] array sin comas elementos sin comas",
+        "tech": "Ruby",
+        "use": "%w[1 2 4 5 6]",
+        "description": "Sirve para crear un array sin comas y funcione de la misma manera."
+    },
+    {
+        "_id": "5f11c860c5660c287c71236c",
+        "title": "first",
+        "type": "Method-Array Method-Object",
+        "search": ".first copiar primer elemento copiar elemento",
+        "tech": "Ruby",
+        "use": "[1, 2, 4, 5, 6,].first(2)  // [1,2]",
+        "description": "Regresa los primeros elementos de un array, toma un parametro que son el numero de elementos que va tomar."
+    },
+    {
+        "_id": "5f11c8d0c5660c287c71236d",
+        "title": "last",
+        "type": "Method-Array Method-Object",
+        "search": ".last copiar ultimo elemento copiar elemento",
+        "tech": "Ruby",
+        "use": "[1, 2, 4, 5, 6,].last(2)  // [5,6]",
+        "description": "Regresa los ultimos elementos de una array, toma un parametro que son el numero de elementos que va tomar."
+    },
+    {
+        "_id": "5f11ce4cc5660c287c71236e",
+        "title": "push",
+        "type": "Method-Array",
+        "search": "push() agrega elementos al final añade elementos",
+        "tech": "Ruby",
+        "use": "[5, 6].push(2,8)  // [5,6,2,8]",
+        "description": "Agrega elementos al final del array."
+    },
+    {
+        "_id": "5f11cf01c5660c287c71236f",
+        "title": "<<",
+        "type": "Method-Array",
+        "search": "agrega elemento al final añade elemento push",
+        "tech": "Ruby",
+        "use": "[5, 6] << 2  // [5,6,2]",
+        "description": "Agrega un elemento al final del array."
+    },
+    {
+        "_id": "5f11d31dc5660c287c712370",
+        "title": "pop",
+        "type": "Method-Array",
+        "search": "quitar elementos al final eliminar elementos cortar",
+        "tech": "Ruby",
+        "use": "[5, 6,7,8].pop(2)  // [7,8] ",
+        "description": "Sirve para eliminar elementos al final del array alterando el array original toma un parametro que es el numero de elementos que van a ser cortados y regresa esos elementos."
+    },
+    {
+        "_id": "5f11e1d1c5660c287c712375",
+        "title": "concat",
+        "type": "Method-Array Method-String",
+        "search": "concat() combina dos arrays junta dos arrays concatena string combina dos strings",
+        "tech": "Ruby",
+        "use": "[5, 6,7,8].concat([9,10])  // [5,6,7,8,9,10]<br>'hola'concat(' mundo') // hola mundo",
+        "description": "Sirve para combinar dos arrays o strings y regresa el elemento combinado."
+    },
+    {
+        "_id": "5f11fe95c5660c287c712376",
+        "title": "Array rest",
+        "type": "Array Property",
+        "search": "resta de arrays [] - [] pop eliminar elementos de array borrar elementos de array",
+        "tech": "Ruby",
+        "use": "[1, 1, 1, 2, 2, 3, 4] - [1, 4]  // [2, 2, 3]",
+        "description": "En ruby hay propiedades muy utiles una de ellas es la resta de arrays el cual los elementos de un array al restarse con otro se eliminan"
+    },
+    {
+        "_id": "5f11ff4dc5660c287c712377",
+        "title": "Array sum",
+        "type": "Array Property",
+        "search": "suma de arrays [] + [] push añadir elementos a array añadir elementos a array push",
+        "tech": "Ruby",
+        "use": "[2, 2, 3, 4] + [1, 4]  // [2, 2, 3, 4, 1, 4] ",
+        "description": "En ruby hay propiedades muy utiles una de ellas es la suma de arrays el cual los elementos de un array al sumarse se añaden los elementos al array"
+    },
+    {
+        "_id": "5f1203b2c5660c287c712378",
+        "title": "Array sort",
+        "type": "Array Property",
+        "search": "ordenar array ordenar elementos",
+        "tech": "Ruby",
+        "use": "a=[A, B, C, D] <br>a[0],a[1] = a[1], a[0] // [B, A, C, D] ",
+        "description": "En ruby hay propiedades muy utiles una de ellas orden de elemntos en un array primero selecciona la posicion de los elementos del array con el indice y separado por comas despues un igual y cambiamos el orden de los elementos, el array original adoptara ese orden"
+    },
+    {
+        "_id": "5f120a99c5660c287c712379",
+        "title": "join",
+        "type": "Method-Array",
+        "search": "join() convertir array en string",
+        "tech": "Ruby",
+        "use": "[1,2,3].join(' ')  // &quot;1 2 3 4&quot;",
+        "description": "Convierte un array en string toma un parametro que es el que va a servir como separador entre los elementos del string"
+    },
+    {
+        "_id": "5f121974c5660c287c71237a",
+        "title": "uniq",
+        "type": "Method-Array",
+        "search": "uniq() borrar elementos repetidos eliminar elementos repetidos unico",
+        "tech": "Ruby",
+        "use": "[1,1,1,2,2,2,2,2].uniq  // [1,2]",
+        "description": "Regresa un array sin elementos repetidos"
+    },
+    {
+        "_id": "5f121e6cc5660c287c71237b",
+        "title": "sort",
+        "type": "Method-Array",
+        "search": "sort() ordenar elementos",
+        "tech": "Ruby",
+        "use": "[3,2,1,4].sort  // [1,2,3,4]<br>['a','c','b'].sort // ['a','b','c']<br>['a','b','c'].sort {|a ,b| b<=>a} //[c,b,a]",
+        "description": "Sirve para ordenar los elementos de un array numeros o letras por separado es decir si en el mismo array hay strings y numeros el metodo no funciona solo cuando hay un tipo de dato en el array, tambien recive una funcion el cual se puede usar para cambiar la forma de orden del metodo"
+    },
+    {
+        "_id": "5f1221b0c5660c287c71237c",
+        "title": "*",
+        "type": "Method-Array",
+        "search": "join convertir array en string",
+        "tech": "Ruby",
+        "use": "[1,2,3]*&quot;-&quot;  // &quot;1-2-3&quot;",
+        "description": "Convierte un array en string toma un parametro que es el que va a servir como separador entre los elementos del string"
+    },
+    {
+        "_id": "5f123d17c5660c287c71237d",
+        "title": "Hash new",
+        "type": "Method-Object",
+        "search": "Hash.new constructor de hashes crear un objeto new object nuevo objeto",
+        "tech": "Ruby",
+        "use": "v = Hash.new // {} <br>v[&quot;fgd&quot;]=1231  // {&quot;fgd&quot; => 1231}",
+        "description": "Crea un hash vacio, se le asigna valores con el nombre del hash en corchetes el nombre de la propiedad o key y un signo de igual y el valor. <strong>hashName[key] = valor</strong>"
+    },
+    {
+        "_id": "5f1246a0c5660c287c71237e",
+        "title": "sample",
+        "type": "Method-Array",
+        "search": "sample elemento al azar elemento aleatorio",
+        "tech": "Ruby",
+        "use": "[3,2,1,4].sample ",
+        "description": "Regresa un elemento del array al azar"
+    },
+    {
+        "_id": "5f1247cbc5660c287c71237f",
+        "title": "delete at",
+        "type": "Method-Array",
+        "search": "delete_at() borrar elemento eliminar elemento",
+        "tech": "Ruby",
+        "use": "[1,2,3,4].delete_at(2)  // 3",
+        "description": "Elimina el elemento en el indice indicado"
+    },
+    {
+        "_id": "5f1248cec5660c287c712380",
+        "title": "product",
+        "type": "Method-Array",
+        "search": ".product() multiplicar arrays multitplicacion de arrays combinacion de arrays",
+        "tech": "Ruby",
+        "use": " [1,2,3].product([4,5]) //[[1,4], [1,5], [2,4], [2,5], [3,4], [3,5]] ",
+        "description": "Regresa una mescla producto de la combinacion de cada elemento de los dos arrays"
+    },
+    {
+        "_id": "5f124a87c5660c287c712381",
+        "title": "to_s",
+        "type": "Method",
+        "search": "convertir a string elemento a string transformar a string",
+        "tech": "Ruby",
+        "use": " [1,2,3].to_s",
+        "description": "Regresa el elemento convertido en string, cualquier elemento"
+    },
+    {
+        "_id": "5f171f3c77c0c4130c9db987",
+        "title": "*arg",
+        "type": "Property",
+        "search": "argumentos arguments array argument array de argumentos",
+        "tech": "Ruby",
+        "use": "method(*arg) //[]",
+        "description": "Convierte los argumentos en un array para poder referirse a los argumentos con indices respecto a la posicion del array"
+    },
+    {
+        "_id": "5f17206d77c0c4130c9db988",
+        "title": "block given?",
+        "type": "Method",
+        "search": "block_given? bloque hay un bloque comprueba si hay un bloque",
+        "tech": "Ruby",
+        "use": "block_given? // method {code} // true<br>block_given? // method // false ",
+        "description": "Comprueba si el metodo esta usando un bloque de codigo o no"
+    },
+    {
+        "_id": "5f17287f77c0c4130c9db989",
+        "title": "to_a",
+        "type": "Method",
+        "search": "to_a convertir a array elemento a array objeto a array",
+        "tech": "Ruby",
+        "use": "'str'.to_a // ['str']<br>(2..5).to_a // [2,3,4,5]",
+        "description": "Convierte cualquier elemento en un array"
+    },
+    {
+        "_id": "5f17501c77c0c4130c9db98a",
+        "title": "Module",
+        "type": "Property",
+        "search": "modulo en ruby modulo de ruby",
+        "tech": "Ruby",
+        "use": "module Name<br>  methods<br>end<br><br>include Name",
+        "description": "Se usan guardar funciones y poder usarlas como metodos, con el tipo de dato que funcionen los metodos dependen de la clase en la que esten incluido el modulo, ejm<br>[array].methodName // error<br><br>Class Array<br>include Name<br>end<br><br>[array].methodName //ahora el metodo funciona en arrays"
+    },
+    {
+        "_id": "5f1750df77c0c4130c9db98b",
+        "title": "include",
+        "type": "Property",
+        "search": "incluir modulos llama a modulos usar modulo llamar modulos",
+        "tech": "Ruby",
+        "use": "include Module_name",
+        "description": "Se usa para llamar modulos al archivo y usar sus metodos."
+    },
+    {
+        "_id": "5f1754b877c0c4130c9db98c",
+        "title": "require",
+        "type": "Property",
+        "search": "requerir archivo llamar archivo traer archivo agregar archivo añader archivo",
+        "tech": "Ruby",
+        "use": "require './folder/file'",
+        "description": "Se usa para llamar un archivo externo y poder usarlo."
+    },
+    {
+        "_id": "5f17551f77c0c4130c9db98d",
+        "title": "require_relative",
+        "type": "Property",
+        "search": "requerir archivo llamar archivo traer archivo agregar archivo añader archivo",
+        "tech": "Ruby",
+        "use": "require_relative 'file'",
+        "description": "Se usa para llamar un archivo externo directamente pero solo si esta en el mismo directorio del archivo que se esta usando."
+    },
+    {
+        "_id": "5f1760ba77c0c4130c9db98e",
+        "title": "size",
+        "type": "Property",
+        "search": "length tamaño de elemento",
+        "tech": "Ruby",
+        "use": "[2,3,4].size //3<br>size.times {}",
+        "description": "Es lo mismo que element.length regresa la longuitud del elemento, tambien sirve para referirse a length del elemento que esta usando el metodo o funcion en el cual es invocado."
+    },
+    {
+        "_id": "5f17738c77c0c4130c9db98f",
+        "title": "yield",
+        "type": "Method",
+        "search": "bloque de codigo yield()",
+        "tech": "Ruby",
+        "use": "element.method {'hello'}<br><br>def method<br>  yield(element)<br>end",
+        "description": "Yield se refiere al bloque de codigo usado por el metodo o funcion puede tener muchas funcionalidades dependiendo lo que se escriba en el bloque, puede ser usado como argumento como condicion o variable etc."
+    },
+    {
+        "_id": "5f17766577c0c4130c9db990",
+        "title": "class",
+        "type": "Method",
+        "search": "clase de dato tipo de dato",
+        "tech": "Ruby",
+        "use": "element.class",
+        "description": "Regresa la clase de dato del elemento."
+    },
+    {
+        "_id": "5f187b4ac6a2262988345a62",
+        "title": "self",
+        "type": "Property",
+        "search": "self objeto original elemento original",
+        "tech": "Ruby",
+        "use": "self",
+        "description": "Hace referencia al objeto original usado por el metodo o funcion no importa si se altera dentro del metodo con self se obtiene siempre el objeto original."
+    },
+    {
+        "_id": "5f188098c6a2262988345a63",
+        "title": "nil",
+        "type": "Property",
+        "search": "default elemento no existe objeto no existe nil undefined",
+        "tech": "Ruby",
+        "use": "nil",
+        "description": "Nil es un valor que se refiere a las variables u objetos que no existen en ruby ejm:<br><strong>arr=[1.2.3]<br> p arr[5] // nil</strong><br> el elemento en el indice 5 no existe en arr, por eso regresa nil, tambien nil se puede usar para establecer un valor default a las varaibles<br>name=nil"
+    },
+    {
+        "_id": "5f1880dbc6a2262988345a64",
+        "title": "nil?",
+        "type": "Method",
+        "search": "default elemento no existe objeto no existe nil undefined",
+        "tech": "Ruby",
+        "use": "element.nil?",
+        "description": "Regresa verdadero si elemento tiene un valor nil por default o no existe sino regresa falso"
+    },
+    {
+        "_id": "5f189e87c6a2262988345a65",
+        "title": "Proc",
+        "type": "Method",
+        "search": "Proc.new bloque de codigo constructor de proc",
+        "tech": "Ruby",
+        "use": "proc1=Proc.new {'Hola'}<br>def hola<br>proc1.call<br>end",
+        "description": "Proc es un bloque de codigo que puede ser llamado en cualquier momento y tiene propiedades de objeto"
+    },
+    {
+        "_id": "5f19e4b2c206f30aac28b0da",
+        "title": "=begin =end",
+        "type": "Property",
+        "search": "comentarios comentar bloque de codigo comment blocks",
+        "tech": "Ruby",
+        "use": "=begin code =end",
+        "description": "Sirve para comentar bloques de codigo en ruby"
+    },
+    {
+        "_id": "5f19f6ddc206f30aac28b0db",
+        "title": "to_sym",
+        "type": "Method",
+        "search": "convertir a simbolo transformar a simbolo to sym",
+        "tech": "Ruby",
+        "use": "'hola'.to_sym // :hola",
+        "description": "Sirve para convertir cualquier elemento en simbolo"
+    },
+    {
+        "_id": "5f19fe8cc206f30aac28b0dc",
+        "title": "intern",
+        "type": "Method",
+        "search": "convertir a simbolo transformar a simbolo to sym",
+        "tech": "Ruby",
+        "use": "'hola'.intern // :hola",
+        "description": "Sirve para convertir cualquier elemento en simbolo"
+    },
+    {
+        "_id": "5f1b1b6c0156ac2b8ce82b14",
+        "title": "$var",
+        "type": "Property",
+        "search": "variable global variables globales variable",
+        "tech": "Ruby",
+        "use": "$var='Hola'",
+        "description": "Con el signo $ antes de la variable se declara una variable global que puede ser usada en cualquier instancia del codigo"
+    },
+    {
+        "_id": "5f1b1c1f0156ac2b8ce82b15",
+        "title": "@var",
+        "type": "Property",
+        "search": "variable de instancia instance variable",
+        "tech": "Ruby",
+        "use": "@var='Hola'",
+        "description": "Se declara una variable de instacia que solo va ser leida dentro de la instancia de la clase"
+    },
+    {
+        "_id": "5f1b36520156ac2b8ce82b16",
+        "title": "@@var",
+        "type": "Property",
+        "search": "variable de clase instance variable",
+        "tech": "Ruby",
+        "use": "@@var='Hola'",
+        "description": "Se declara una variable de clase que va ser leida dentro de todas las intancias de la clase"
+    },
+    {
+        "_id": "5f1b36f30156ac2b8ce82b17",
+        "title": "class < class",
+        "type": "Property",
+        "search": "heredar caracteristicas de clase copiar caracteristicas de clase copiar clase heredar clase",
+        "tech": "Ruby",
+        "use": "class Name1 < Name2",
+        "description": "La clase Name1 va a heredar todas las caracteristicas y metodos de la clase Name2"
+    },
+    {
+        "_id": "5f1b42d40156ac2b8ce82b18",
+        "title": "super",
+        "type": "Property",
+        "search": "super anteponer cambiar metodo de clase anteponer clase",
+        "tech": "Ruby",
+        "use": "def name <br>puts 'hola<br>super<br>end",
+        "description": "En una clase que a heredado las caracteristicas y metodos de otra clase para anteponer sus propias carecteristicas y metodos se usa la palabra super"
+    },
+    {
+        "_id": "5f1f183f224a4807c4159ca4",
+        "title": "attr_reader",
+        "type": "Method",
+        "search": "acceder a variables de metodos obtener variable de otra instancia",
+        "tech": "Ruby",
+        "use": "attr_reader :name",
+        "description": "Sirve para obtener valores de un metodo fuera de la instancia"
+    },
+    {
+        "_id": "5f1f1896224a4807c4159ca5",
+        "title": "attr_writer",
+        "type": "Method",
+        "search": "cambiar laa variables de metodos escribir variable de otra instancia",
+        "tech": "Ruby",
+        "use": "attr_writer :name",
+        "description": "Sirve para dar valores  a variables de un metodo fuera de la intancia."
+    },
+    {
+        "_id": "5f1f38cd224a4807c4159ca6",
+        "title": "attr_accessor",
+        "type": "Method",
+        "search": "acceder a variables de metodos obtener variable de otra instancia cambiar las variables de metodos escribir variable de otra instancia",
+        "tech": "Ruby",
+        "use": "attr_accessor :name",
+        "description": "Sirve para obtener y cambiar valores de un metodo fuera de la instancia es lo mismo que usar los metodos attr_writer, attr_reader"
+    },
+    {
+        "_id": "5f370e413a36931988c7b13a",
+        "title": "CREATE_TABLE",
+        "type": "Sql",
+        "search": "crea tabla en sql, crear tabla de datos en sql",
+        "tech": "Sql",
+        "use": "CREATE TABLE name (var TEXT, var2 INTEGER);",
+        "description": "Sirve para crear una tabla de datos en sql."
+    },
+    {
+        "_id": "5f370faa3a36931988c7b13b",
+        "title": "INSERT",
+        "type": "Sql",
+        "search": "insertar datos en tabla agregar datos a tabla añadir datos a tabla",
+        "tech": "Sql",
+        "use": "INSERT INTO name VALUES('Alex', 1);",
+        "description": "Sirve para insertar datos en una tabla creada"
+    },
+    {
+        "_id": "5f3713163a36931988c7b13c",
+        "title": "SELECT",
+        "type": "Sql",
+        "search": "Selecciona la columna en la tabla",
+        "tech": "Sql",
+        "use": "SELECT * FROM name; // muestra toda la tabla <br>SELECT var FROM name // muestra todos los valores de la columna var",
+        "description": "Selecciona valores de tabla"
+    },
+    {
+        "_id": "5f37166a3a36931988c7b13d",
+        "title": "ORDER BY",
+        "type": "Sql",
+        "search": "ordenar tabla orden de datos",
+        "tech": "Sql",
+        "use": "SELECT * FROM name ORDER BY var;",
+        "description": "Ordena los elementos de la tabla y muestra los datos si son texto en orden alfabetico y sin son numeros los ordena de menor a mayor <strong>Simpre es la ultima accion antes de mostrar la tabla</strong>"
+    },
+    {
+        "_id": "5f3719753a36931988c7b13e",
+        "title": "WHERE",
+        "type": "Sql",
+        "search": "condicion para mostrar datos, condicional de la tabla condicional de seleccion",
+        "tech": "Sql",
+        "use": "SELECT * FROM name WHERE var2 > 1  ORDER BY var;",
+        "description": "Sirve poner una condicion a los datos para mostrar los datos;"
+    },
+    {
+        "_id": "5f371b763a36931988c7b13f",
+        "title": "SUM",
+        "type": "Sql",
+        "search": "SUM() suma de valores de datos",
+        "tech": "Sql",
+        "use": "SELECT SUM(var2) FROM name",
+        "description": "Sirve para sumar los valores de la tabla."
+    },
+    {
+        "_id": "5f487577401b6f15d05d4500",
+        "title": "new",
+        "type": "Ruby on Rails",
+        "search": "rails crear proyecto",
+        "tech": "Ruby on Rails",
+        "use": "rails new Name",
+        "description": "Crea la estructura basica para inicar un proyecto en rails."
+    },
+    {
+        "_id": "5f487817401b6f15d05d4501",
+        "title": "server",
+        "type": "Ruby on Rails",
+        "search": "servidor con rails, rails server",
+        "tech": "Ruby",
+        "use": "rails server<br>rails s",
+        "description": "Crea un servido con rails."
+    },
+    {
+        "_id": "5f4878c3401b6f15d05d4502",
+        "title": "console",
+        "type": "Ruby on Rails",
+        "search": "consola de rails irb en rails rails console",
+        "tech": "Ruby",
+        "use": "rails console",
+        "description": "Abre la consola irb de rails."
+    },
+    {
+        "_id": "5f487f41401b6f15d05d4503",
+        "title": "timestamps",
+        "type": "Ruby on Rails",
+        "search": "creado en actualizado en timestamps",
+        "tech": "Ruby",
+        "use": "t.timestamps",
+        "description": "Se genera automaticamente en el archivo de migracion, lo que hace es crear dos columnas en la base de datos una cuando fue creado y otra cuando fue actualizado."
+    },
+    {
+        "_id": "5f487f73401b6f15d05d4504",
+        "title": "generate model",
+        "type": "Ruby on Rails",
+        "search": "crea un modelo de objeto crear objeto rails generate model",
+        "tech": "Ruby on Rails",
+        "use": "rails generate model ModelName propertyOne:string propertyTwo:integer",
+        "description": "Genera un modelo de objeto en rails con sus archivos de test test/models/, de modelo app/models/ de base de datos db/migrate/."
+    },
+    {
+        "_id": "5f488dad401b6f15d05d4505",
+        "title": "migration Add___To____",
+        "type": "Active record",
+        "search": "añadir columna a la tabla añadir dato a la base de datos agregar columna a la tabla rails migration AddNameToTableName",
+        "tech": "Ruby on Rails",
+        "use": "rails migration AddNameToTableName name:string topic:string year:integer",
+        "description": "Añade una o varias columna a la base de datos en el esquema despues de correr el comando rake db:migrate, es importante saber que la sintaxis es muy importante."
+    },
+    {
+        "_id": "5f489581401b6f15d05d4506",
+        "title": "rake db:migrate",
+        "type": "Active record",
+        "search": "crear el esquema crear base de datos rake db:migrate",
+        "tech": "Ruby on Rails",
+        "use": "rake db:migrate",
+        "description": "Crea o actualiza el esquema de la base de datos dependiendo de la configuracion de los archivos de migracion."
+    },
+    {
+        "_id": "5f489930401b6f15d05d4507",
+        "title": "rake db:rollback",
+        "type": "Active record",
+        "search": "deshace una migracion deshacer migracion rake db:rollback",
+        "tech": "Ruby on Rails",
+        "use": "rake db:rollback<br>rake db:rollback VERSION=0",
+        "description": "Sirve para deshacer la ultima migracion o tambien se puede especificar con el parametro VERSION a la migracion que se desea regresar."
+    },
+    {
+        "_id": "5f4899f1401b6f15d05d4508",
+        "title": "rake db:status",
+        "type": "Active record",
+        "search": "status de migracion rake db:status",
+        "tech": "Ruby on Rails",
+        "use": "rake db:status",
+        "description": "Muestra el status de la migracion la direccion de base de datos y otros datos importantes."
+    },
+    {
+        "_id": "5f4fd7f11f356a25f03f59af",
+        "title": "new",
+        "type": "Active record (console)",
+        "search": "crear objeto crear modelo crear elemento .new",
+        "tech": "Ruby on Rails",
+        "use": "ModelName.new(name:'str')",
+        "description": "Crea un objeto en la consola de rails, el objeto solo puede ser creado si el modelo y la tabla del mismo se a creado previamente, acontinuacion se usa el metodo save para guardar el objeto creado en la base de datos."
+    },
+    {
+        "_id": "5f4fda171f356a25f03f59b0",
+        "title": "create",
+        "type": "Active record (console)",
+        "search": "crear objeto crear modelo crear elemento .new .save guarda",
+        "tech": "Ruby on Rails",
+        "use": "ModelName.create(name:'str')",
+        "description": "Crea un objeto en la consola de rails, el objeto solo puede ser creado si el modelo y la tabla del mismo se a creado previamente, el modelo create es igual que usar el metodo new y save en una sola accion."
+    },
+    {
+        "_id": "5f4fdecd1f356a25f03f59b1",
+        "title": "all",
+        "type": "Active record",
+        "search": "todos los elementos en la base de datos .all",
+        "tech": "Ruby on Rails",
+        "use": "Modelname.all ",
+        "description": "Devuelve todos los elementos en la base de datos creados a partir de el modelo indicado ejm:<br>User.all //devuelve un array todos los usuarios guardados en la base de datos."
+    },
+    {
+        "_id": "5f4fdfdb1f356a25f03f59b2",
+        "title": "first",
+        "type": "Active record",
+        "search": "el primer elemento primer objeto .first",
+        "tech": "Ruby on Rails",
+        "use": "Modelname.first",
+        "description": "Devuelve el primer elementos en la base de datos creados a partir de el modelo indicado ejm:<br>User.first //devuelve el primer usuario de los usuarios guardados en la base de datos."
+    },
+    {
+        "_id": "5f4ff3dc1f356a25f03f59b3",
+        "title": "find_by",
+        "type": "Active record",
+        "search": "buscar elemento find_by() buscar en la base de datos buscar en la tabla",
+        "tech": "Ruby on Rails",
+        "use": "Modelname.find_by(name:'Pablo')",
+        "description": "Regresa el elemento con ese valor en la tabla de datos."
+    },
+    {
+        "_id": "5f4ff99e1f356a25f03f59b4",
+        "title": "find_by",
+        "type": "Active record",
+        "search": "buscar elemento .where() buscar en la base de datos buscar en la tabla",
+        "tech": "Ruby on Rails",
+        "use": "Modelname.where(country:'Japan')",
+        "description": "Regresa los elementos con ese valor en la tabla de datos."
+    },
+    {
+        "_id": "5f4fffc51f356a25f03f59b5",
+        "title": "order",
+        "type": "Active record",
+        "search": "orden de elementos de tabla ordena elementos de base de datos .order()",
+        "tech": "Ruby on Rails",
+        "use": "User.all.order(name: :desc) // orden inverso<br>User.order(:name).all",
+        "description": "Ordena los elementos dependiendo del parametro seleccionado ."
+    },
+    {
+        "_id": "5f5000d91f356a25f03f59b6",
+        "title": "find",
+        "type": "Active record",
+        "search": "find() buscar elementos por id buscar objeto por id",
+        "tech": "Ruby on Rails",
+        "use": "User.find(10)<br>User.find([1,2])",
+        "description": "Busca el elemento o elementos en la base de datos con los id indicados"
+    },
+    {
+        "_id": "5f50030f1f356a25f03f59b7",
+        "title": "take",
+        "type": "Active record",
+        "search": "take() tomar elementos de base de datos",
+        "tech": "Ruby on Rails",
+        "use": "User.take<br>User.find(2)",
+        "description": "Regresa un numero determinado de elementos de la base de datos si se lo usa sin parametro regresa solo un elemento, en el parametro se puede especificar el numero de elementos que se va tomar de la base de datos"
+    },
+    {
+        "_id": "5f500aaf1f356a25f03f59b8",
+        "title": "update",
+        "type": "Active record",
+        "search": "cambiar elemento en base de datos actualizar elemento",
+        "tech": "Ruby on Rails",
+        "use": "user.update(name: 'Alex') inverso<br>User.order(:name).all",
+        "description": "Sirve para modificar el valor de un elemento en la base de datos"
+    },
+    {
+        "_id": "5f500b1d1f356a25f03f59b9",
+        "title": "update_all",
+        "type": "Active record",
+        "search": "cambiar elementos en base de datos actualizar elementos",
+        "tech": "Ruby on Rails",
+        "use": "user.update_all(country: 'corea');",
+        "description": "Sirve para modificar el valor de varios elemento en la base de datos"
+    },
+    {
+        "_id": "5f500bbb1f356a25f03f59ba",
+        "title": "save",
+        "type": "Active record",
+        "search": "guardar elemento",
+        "tech": "Ruby on Rails",
+        "use": "user.save;",
+        "description": "Sirve para guardar un elemento en la base de datos"
+    },
+    {
+        "_id": "5f500c2c1f356a25f03f59bb",
+        "title": "destroy",
+        "type": "Active record",
+        "search": "elimina elemento destruye elemento borra elemento",
+        "tech": "Ruby on Rails",
+        "use": "user.destroy;",
+        "description": "Sirve para eliminar un elemento de la base de datos"
+    },
+    {
+        "_id": "5f500ce21f356a25f03f59bc",
+        "title": "destroy_by",
+        "type": "Active record",
+        "search": "elimina elementos destruye elementos borra elementos destroy_by()",
+        "tech": "Ruby on Rails",
+        "use": "user.destroy_by(name:'abc');",
+        "description": "Sirve para eliminar elementos que tengan el valor indicado"
+    },
+    {
+        "_id": "5f500d381f356a25f03f59bd",
+        "title": "destroy_all",
+        "type": "Active record",
+        "search": "elimina elementos destruye elementos borra elementos destroy_all",
+        "tech": "Ruby on Rails",
+        "use": "User.destroy_all;",
+        "description": "Destruye todo los elementos en la tabla"
+    },
+    {
+        "_id": "5f5016791f356a25f03f59be",
+        "title": "valid?",
+        "type": "Active record",
+        "search": "elemento es valido validacion",
+        "tech": "Ruby on Rails",
+        "use": "user1.valid?",
+        "description": "Regresa verdadero si el elemento cumple todas las validaciones y falso si no lo es."
+    },
+    {
+        "_id": "5f5016de1f356a25f03f59bf",
+        "title": "reload!",
+        "type": "Active record",
+        "search": "refresca consola",
+        "tech": "Ruby on Rails",
+        "use": "reload!",
+        "description": "Sirve para refrescar la consoloa de rails y poder usar las ultimas modificaciones escritas en el codigo."
+    },
+    {
+        "_id": "5f5017381f356a25f03f59c0",
+        "title": "errors",
+        "type": "Active record",
+        "search": "mostrar errores",
+        "tech": "Ruby on Rails",
+        "use": "user1.errors",
+        "description": "Sirve para mostrar los errores porque el elemento no puede ser validado."
+    },
+    {
+        "_id": "5f50177e1f356a25f03f59c1",
+        "title": "errors full message",
+        "type": "Active record",
+        "search": "mostrar errores",
+        "tech": "Ruby on Rails",
+        "use": "user1.errors.full_messages",
+        "description": "Sirve para mostrar los errores de forma detallada porque el elemento no puede ser validado."
+    },
+    {
+        "_id": "5f68c3abfea5c427dcbb4bf9",
+        "title": "where",
+        "type": "Active record",
+        "search": "where() busca elemento selecciona elemento",
+        "tech": "Ruby on Rails",
+        "use": "User.where(id:1)",
+        "description": "Sirve para buscar elemento con el valor dado en la propiedad."
+    },
+    {
+        "_id": "5f68c4e3fea5c427dcbb4bfa",
+        "title": "limit",
+        "type": "Active record",
+        "search": "limit() numero de elementos limite de elementos",
+        "tech": "Ruby on Rails",
+        "use": "User.limit(5)",
+        "description": "Sirve para poner un numero limite en la seleccion de elementos."
+    },
+    {
+        "_id": "5f68c780fea5c427dcbb4bfb",
+        "title": "exists?",
+        "type": "Active record",
+        "search": "exists? el elemento existe comprobacion si existe??",
+        "tech": "Ruby on Rails",
+        "use": "User.first.exists?<br>User.exists?(id: [1,2,3])<br>User.exists?(name: ['John', 'Sergei'])<br>User.exists?(2) // regresa verdadero si hay dos o mas de dos usuarios",
+        "description": "Regresa verdadero o falso si el elemento existe o no, tambien toma varios parametros como el numero de elementos y la propiedad de elementos buscado"
+    },
+    {
+        "_id": "5f68c845fea5c427dcbb4bfc",
+        "title": "any?",
+        "type": "Active record",
+        "search": "any? el elemento existe comprobacion si existe?",
+        "tech": "Ruby on Rails",
+        "use": "User.where(id:5).any?",
+        "description": "Regresa verdadero o falso dependiendo si hay algun elemento que cumpla las condiciones."
+    },
+    {
+        "_id": "5f68c898fea5c427dcbb4bfd",
+        "title": "many?",
+        "type": "Active record",
+        "search": "many? elementos existen comprobacion si existe?",
+        "tech": "Ruby on Rails",
+        "use": "User.where(id:5).many?",
+        "description": "Regresa verdadero o falso dependiendo si hay mas de un elemento que cumpla las condiciones."
+    },
+    {
+        "_id": "5f68cdbdfea5c427dcbb4bfe",
+        "title": "select",
+        "type": "Active record",
+        "search": "select() selecciona datos selector de datos seleccion de columnas",
+        "tech": "Ruby on Rails",
+        "use": "User.select(:id)",
+        "description": "De la misma manera que en sql se seleciona datos por su propiedad, el query select nos permite hacer lo mismo, nos permite selecionar la columnas de datos de la propiedad especificada en el parametro."
+    },
+    {
+        "_id": "5f68dfe2bf1c420fb8a5d891",
+        "title": "find_by_sql",
+        "type": "Active record",
+        "search": "find_by_sql escribir sql usar codigo sql",
+        "tech": "Ruby on Rails",
+        "use": "User.find_by_sql(&quot;SELECT * FROM users WHERE grade=10 &quot;)",
+        "description": "Sirve para poder usar sql para obtener el elemento"
+    },
+    {
+        "_id": "5f68e2a6bf1c420fb8a5d892",
+        "title": "average",
+        "type": "Active record",
+        "search": "average() promedio",
+        "tech": "Ruby on Rails",
+        "use": "User.average(&quot;grades&quot;)",
+        "description": "Regresa el promedio de los elementos, recive como parametro la columna de la tabla que va a promediar"
+    },
+    {
+        "_id": "5f68e344bf1c420fb8a5d893",
+        "title": "maximum",
+        "type": "Active record",
+        "search": "maximum() maximo",
+        "tech": "Ruby on Rails",
+        "use": "User.maximum(&quot;grades&quot;)",
+        "description": "Regresa el valor maximo de los elementos, recive como parametro la columna de la tabla en la que va a buscar el valor maximo"
+    },
+    {
+        "_id": "5f68e387bf1c420fb8a5d894",
+        "title": "minimum",
+        "type": "Active record",
+        "search": "minimum() minimo valor minimo",
+        "tech": "Ruby on Rails",
+        "use": "User.minimum(&quot;grades&quot;)",
+        "description": "Regresa el valor minimo de los elementos, recive como parametro la columna de la tabla en la que va a buscar el valor minimo"
+    },
+    {
+        "_id": "5f68e42abf1c420fb8a5d895",
+        "title": "sum",
+        "type": "Active record",
+        "search": "sum() suma suma de valores suma de elementos",
+        "tech": "Ruby on Rails",
+        "use": "User.sum(&quot;grades&quot;)",
+        "description": "Regresa la suma de los elementos, recive como parametro la columna de la tabla que va a ser sumada"
+    },
+    {
+        "_id": "5f68e9d6bf1c420fb8a5d896",
+        "title": "Offset",
+        "type": "Active record",
+        "search": "offset() ignorar elementos",
+        "tech": "Ruby on Rails",
+        "use": "User.limit(5).offset(30)",
+        "description": "Sirve para ignorar un numero de elementos dada antes de ejecutar la accion"
+    },
+    {
+        "_id": "5f690c7ebf1c420fb8a5d897",
+        "title": "group",
+        "type": "Active record",
+        "search": "group() agrupar elementos GROUP BY",
+        "tech": "Ruby on Rails",
+        "use": "User.select(&quot;name&quot;).group('country')",
+        "description": "Sirve para agrupar los elementos"
+    },
+    {
+        "_id": "5f69118ebf1c420fb8a5d898",
+        "title": "having",
+        "type": "Active record",
+        "search": "having() condicion para elementos, condicional HAVING",
+        "tech": "Ruby on Rails",
+        "use": "User.select(&quot; name &quot;).having(&quot; age > 10 &quot;)",
+        "description": "Condicion para elementos"
+    },
+    {
+        "_id": "5f6912eabf1c420fb8a5d899",
+        "title": "unscope",
+        "type": "Active record",
+        "search": "unscope() anula una accion",
+        "tech": "Ruby on Rails",
+        "use": "User.select(&quot; name &quot;).order('name').unscope(:order)",
+        "description": "Sirve para anular una accion en el selector, en el ejemplo se anulo order asi que se devolvera los elementos sin el orden especificado"
+    },
+    {
+        "_id": "5f691ad0bf1c420fb8a5d89a",
+        "title": "only",
+        "type": "Active record",
+        "search": "only() solo acciones",
+        "tech": "Ruby on Rails",
+        "use": "User.select(&quot; age > 10 &quot;).limit(5).order('name').only(:order, :where)",
+        "description": "Sirve para solo permitir que las acciones establecidas funcionen en el selector, en el ejemplo vemos que only se establece order y where solo esas dos acciones serviran en el selector, limit queda descartada"
+    },
+    {
+        "_id": "5f691f17bf1c420fb8a5d89c",
+        "title": "reselect",
+        "type": "Active record",
+        "search": "reselect() reseleccionar rehacer selector",
+        "tech": "Ruby on Rails",
+        "use": "User.select(:name).reselect(:country) // selecciona a los elementos por paises",
+        "description": "Sirve para rehacer el selector"
+    },
+    {
+        "_id": "5f6920a6bf1c420fb8a5d89d",
+        "title": "reverse_order",
+        "type": "Active record",
+        "search": "reverse_order() orden alreves revertir orden",
+        "tech": "Ruby on Rails",
+        "use": "User.find(10).order('name').reverse_order",
+        "description": "Revierte el orden al opuesto del orden establecido"
+    },
+    {
+        "_id": "5f6920dfbf1c420fb8a5d89e",
+        "title": "reorder",
+        "type": "Active record",
+        "search": "reorder() reordena reordenar",
+        "tech": "Ruby on Rails",
+        "use": "User.find(10).reorder('name')",
+        "description": "Sirve para reordenar los elementos que ya tienen un orden especifico"
+    },
+    {
+        "_id": "5f6948a4bf1c420fb8a5d89f",
+        "title": "joins",
+        "type": "Active record",
+        "search": "joins() unir tablas combinar tablas INNER JOIN",
+        "tech": "Ruby on Rails",
+        "use": "User.joins(:posts)<br>User.joins(:posts, :comments)// user id de ref <br>User.joins(posts: :comments)post_id de ref",
+        "description": "Sirve para unir dos o mas tablas si estan asociadas (id)."
+    },
+    {
+        "_id": "5f694e26bf1c420fb8a5d8a0",
+        "title": "left_outer_joins",
+        "type": "Active record",
+        "search": "left_outer_joins() unir tablas combinar tablas LEFT OUTER JOIN",
+        "tech": "Ruby on Rails",
+        "use": "User.left_outer_joins(:posts)<br>User.left_outer_joins(:posts, :comments)// user id de ref <br>User.left_outer_joins(posts: :comments)post_id de ref",
+        "description": "Sirve para unir dos o mas tablas asi no esten asociadas, si no estan asociadas dejando un nil en los datos faltantes."
+    },
+    {
+        "_id": "5f6963a7bf1c420fb8a5d8a1",
+        "title": "find_or_create_by",
+        "type": "Active record",
+        "search": "find_or_create_by() buscar elemento crear elemento",
+        "tech": "Ruby on Rails",
+        "use": "User.find_or_create_by(country: 'Japan');",
+        "description": "Busca el elemento si lo encuentra lo regresa sino crea un elemento con esas propiedades."
+    },
+    {
+        "_id": "5f69685cbf1c420fb8a5d8a2",
+        "title": "find_or_create_by!",
+        "type": "Active record",
+        "search": "find_or_create_by!() buscar elemento crear elemento",
+        "tech": "Ruby on Rails",
+        "use": "User.find_or_create_by!(country: 'Japan');",
+        "description": "Busca el elemento si lo encuentra lo regresa sino crea un elemento con esas propiedades."
+    },
+    {
+        "_id": "5f6a3177f3c6d01f80894178",
+        "title": "scope",
+        "type": "Active record",
+        "search": "scope selectores en modelos queries en modelos",
+        "tech": "Ruby on Rails",
+        "use": "scope: country_select, ~> {where (country : 'Japan')} //no argument<br><strong>Controlador</strong><br>@users=user.country_select<hr><br>scope: country_select, ~>(time) {where (country : 'Japan')} // with argument <br><strong>Controlador</strong><br>@users=user.country_select(Time.now)<hr><br>scope: country_select, ~>(time) {where (country : 'Japan') if time.present?} // with statement<br><strong>Controlador</strong><br>@users=user.country_select(Time.now)",
+        "description": "Scope sirve para poder crear metodos de selectores en los modelos y poder usarlos en los controladores, el scope puede usar parametros o no y tambien condicionales."
+    },
+    {
+        "_id": "5f6a34b8f3c6d01f80894179",
+        "title": "default_scope",
+        "type": "Active record",
+        "search": "default_scope selectores en modelos queries en modelos",
+        "tech": "Ruby on Rails",
+        "use": "default_scope { where('removed_at IS NULL') }",
+        "description": "Sirve para establecer un scope por default en el modelo simpre que se use selectores del modelo este ya va a formar parte del selector."
+    },
+    {
+        "_id": "5f6a3ad0f3c6d01f8089417a",
+        "title": "merge",
+        "type": "Active record",
+        "search": "merge() usar scope de un modelo en otro",
+        "tech": "Ruby on Rails",
+        "use": "Post.joins(:users).merge(scope_name)",
+        "description": "Sirve para poder usar los scopes de un modelo en otro y asi  no tener que crear un scope para cada modelo al tratar de obtener datos relacionados."
+    },
+    {
+        "_id": "5f6a6384f3c6d01f8089417b",
+        "title": "class_name,",
+        "type": "Active record Associations",
+        "search": "class_name cambiar de nombre al modelo crear categorias en el modelo tipos de modelo dividir modelo tipos en modelo categorias en modelo",
+        "tech": "Ruby on Rails",
+        "use": "<strong>1. Aqui se divide al modelo en dos tipos autor y editor un usuario es autor y editor a la vez</strong><br>class Post < ActiveRecord::Base<br>belongs_to :author, class_name: 'User'<br>belongs_to :editor, class_name: 'User'<br>end<hr><br><strong>2.Aqui se establece que el usuario puede ser editor o autor dependiendo del foreing key</strong><br>class User < ActiveRecord::Base<br>has_many :authored_posts, foreign_key: 'author_id', class_name: 'Post'<br>has_many :edited_posts, foreign_key: 'editor_id', class_name: 'Post'<br>end<hr>",
+        "description": "Sirve para cuando en el modelo lo divide en categorias, class_name sirve para recordar a rails a que modelo pertenece cada categoria."
+    },
+    {
+        "_id": "5f6a6b75f3c6d01f8089417c",
+        "title": "through",
+        "type": "Active record Associations",
+        "search": "atravez asociacion indirecta through:",
+        "tech": "Ruby on Rails",
+        "use": "class Physician < ApplicationRecord<br>has_many :materias<br>has_many :estudiantes, through: :materias<br>end",
+        "description": "Se usa para determinar que un modelo esta relacionado con otro. Nota:Explicando con el ejemplo, un profesor tiene que dar muchas materias y tambien tiene muchos estudiantes pero los estudiantes estan asociados con las materias queda el profesor, estrictamente sus alumnos son los que escogen las materias que da determinado profesor, esa es el concepto de asociacion que se refiere through."
+    }
+]
