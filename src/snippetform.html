@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>Code Snippets</title>
+    <script defer src="./addSnippet.js"></script>
+</head>
+<body>
+    <form class="search-form"  id="formS">
+        <a href="./snippetsIndex.html" class="addnotes" role="button">Regresar a Code Snippets</a>
+        <div class="search">
+            <input type="text" id="snippetTitle"  class="search2" placeholder="Title">
+            <select name="tech" id="snippetTech" class="search3">
+                <option value="HTML">HTML</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="Node">Node</option>
+                <option value="Ruby">Ruby on Rails</option>
+                <option value="TypeScript">TypeScript</option>
+                <option value="Shell">Shell</option>
+                <option value="SQLserver">SQLserver</option>
+            </select>
+            <textarea type="text" id="snippetUse" rows="7" cols="45" class="textar" placeholder="Code Here"></textarea>
+            <textarea type="text" id="snippetDescription" rows="7" cols="45" class="textar" placeholder="Description"></textarea>
+            <input type="text" id="snippetSearch" class="search2" placeholder="Keywords to search a note">
+            <button type="submit" id="snippetSubmit" class="button5">Add Note</button>
+        </div>
+    </form>
+    
+</body>
+</html>

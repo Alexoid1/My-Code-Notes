@@ -13,33 +13,27 @@ Additional description about the project and its features.
 - Css
 
 
+### Prerequisites
+
+- Node
+- Download the code from repository (https://github.com/Alexoid1/My-Code-Notes)
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
 
 - Go to https://github.com/Alexoid1/My-Code-Notes and clone the repo using: <br>
 `https://github.com/Alexoid1/My-Code-Notes.git` in your terminal.
-- Cd file
+- Cd ./My-Code-Notes
 - Run `npm i` in your terminal.
 - Run `npm run make` in your terminal.
+- Cd /out/make/squirrel.['system']
+- Run  Setup.exe
 
+## Article
 
-
-
-In this project:
-
-- Fetch a gist (json) to provide data
-
-
-
-
-To get a local copy  and to set it up and running follow these simple example steps.
-
-### Prerequisites
-
-- Browser
-- Internet
-- Download the code from repository (https://github.com/Alexoid1/My-Code-Notes)
+- Article -: [Build a quick and easy desktop app with Electron](https://alex-zam.medium.com/build-your-desktop-app-quick-and-easy-with-electron-123ae7190559)
 
 
 ## Author

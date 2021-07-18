@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-let rawdata = fs. readFileSync(path. resolve(__dirname, 'notes.json'));
+let rawdata = fs.readFileSync(path. resolve(__dirname, 'snippets.json'));
 let student = JSON.parse(rawdata);
 
 
@@ -9,7 +9,7 @@ let student = JSON.parse(rawdata);
       function encontrar(palabra, notes){
         return notes.filter(function(x){//filtro en el array de objetos notas
             const regex= new RegExp(palabra,'gi')
-            return x.search.match(regex)||x.title.match(regex)||x.type.match(regex)//city y state son propiedades dentro del objeto cities como ya esta creado tiene sus propiedades
+            return x.search.match(regex)||x.title.match(regex)//city y state son propiedades dentro del objeto cities como ya esta creado tiene sus propiedades
     
         });
     
@@ -25,7 +25,7 @@ let student = JSON.parse(rawdata);
             <li class='elem'>
               <div>
                 <span class="name">${titleName}</span>
-                <span class="population">${x.type}</span>
+                
                 <span class="pop">${x.tech}</span>
               </div>
               <div class="hiden">
