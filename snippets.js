@@ -1,7 +1,16 @@
-const fs = require('fs');
-const path = require('path');
-let rawdata = fs.readFileSync(path. resolve(__dirname, 'snippets.json'));
-let student = JSON.parse(rawdata);
+const tasks="https://gist.githubusercontent.com/Alexoid1/84560fde3e1f61f288d469588a30e663/raw/c2d6b17325ad51b597470a5333190a9c9a4014bc/tasks.json"
+let notes = [];
+fetch(tasks).then(blop => blop.json()).then(data => notes.push(...data))
+function encontrar(palabra, notes){
+  return notes.filter(function(x){//filtro en el array de objetos notas
+      const regex= new RegExp(palabra,'gi')
+      return x.search.match(regex)||x.title.match(regex)||x.type.match(regex)//city y state son propiedades dentro del objeto cities como ya esta creado tiene sus propiedades
+
+  });
+
+
+   
+}
 
 
       let notes = [];
