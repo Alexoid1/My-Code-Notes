@@ -13,10 +13,12 @@ let notes = [...student];
 form.addEventListener('submit', e => {
     e.preventDefault();
     let regex2=new RegExp('\n','gi');
-    
+    let regex4=/[<]/g;
+    let regex5=/[>]/g;
     let title = document.getElementById('noteTitle').value;
     let tech = document.getElementById('noteTech').value;
-    let use = document.getElementById('noteUse').value.replace(regex2,'<br>');
+    let use = document.getElementById('noteUse').value.replace(regex4,'&lt;');
+    use=use.replace(regex5,'&gt;')
     let description = document.getElementById('noteDescription').value;
     let search = document.getElementById('noteSearch').value;
     let type = document.getElementById('noteType').value;

@@ -32,7 +32,7 @@ let student = JSON.parse(rawdata);
                 <div>
                   <span class="hi">${x.description}</span>
                 </div>           
-                <pre class='pop2'><code>${x.use}</code></pre>
+                <pre class='pop2'><code style="display:block; white-space:pre-wrap">${x.use}</code></pre>
               </div>  
             </li>    
             `;

@@ -73,6 +73,7 @@ input.search {
   margin: 0;
   padding: 20px;
   transition: background 0.2s;
+  Overflow-y:scroll;
   
   
 }
