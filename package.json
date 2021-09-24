@@ -1,0 +1,24 @@
+{
+  "name": "my-code-notes",
+  "version": "1.0.0",
+  "description": "This is a desktop notes app build with electron that not use a database to store data, instead use a JSON file that store the notes rewriting the file in every new entry.",
+  "main": "index.js",
+  "dependencies": {
+    "ciql-json": "^1.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexoid1/My-Code-Notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexoid1/My-Code-Notes/issues"
+  },
+  "homepage": "https://github.com/Alexoid1/My-Code-Notes#readme"
+}
