@@ -35,6 +35,10 @@ To get a local copy up and running follow these simple example steps:
 
 - Article -: [Build a quick and easy desktop app with Electron](https://alex-zam.medium.com/build-your-desktop-app-quick-and-easy-with-electron-123ae7190559)
 
+## Live Version
+
+- Live (https://alexoid1.github.io/My-Code-Notes/)
+
 
 ## Author
 
