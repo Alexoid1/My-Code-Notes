@@ -2,6 +2,7 @@ const tasks="https://gist.githubusercontent.com/Alexoid1/e4abea36f901830e1fd0f97
 let notes = [];
       fetch(tasks).then(blop => blop.json()).then(data => notes.push(...data))
       let result=notes
+      
       function encontrar(palabra, notes){
         return notes.filter(function(x){//filtro en el array de objetos notas
             const regex= new RegExp(palabra,'gi')
