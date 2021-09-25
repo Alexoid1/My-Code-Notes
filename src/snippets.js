@@ -25,7 +25,7 @@ let student = JSON.parse(rawdata);
             <li class='elem'>
               <div>
                 <span class="name">${titleName}</span>
-                
+                <span class="population">${x.type}</span>
                 <span class="pop">${x.tech}</span>
               </div>
               <div class="hiden">

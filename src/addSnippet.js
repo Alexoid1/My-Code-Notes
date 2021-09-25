@@ -22,6 +22,7 @@ form.addEventListener('submit', e => {
  
     let description = document.getElementById('snippetDescription').value;
     let search = document.getElementById('snippetSearch').value;
+    let type = document.getElementById('noteType').value;
     let formS=document.getElementById('formS');
     var hexstring = crypto.randomBytes(16).toString("hex");
     
@@ -32,6 +33,7 @@ form.addEventListener('submit', e => {
         "use": use,
         "description": description,
         "search":search,
+        "type":type
     };
     notes.push(newNote);
     let mynotes=JSON.stringify(notes)
