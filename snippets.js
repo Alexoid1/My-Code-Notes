@@ -10,9 +10,9 @@ let notes = [];
         });  
       }
       function filtrar () {
-        notes.push(...result)
+        notes=result
         if(this.value==='All'){
-          notes=result
+         
           return notes
         }else{
           notes=notes.filter((note)=>note.tech===this.value)
