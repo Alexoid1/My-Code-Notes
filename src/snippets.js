@@ -14,6 +14,16 @@ let student = JSON.parse(rawdata);
         });
     
       }
+      function filtrar () {
+       
+        notes.push(...student)
+        if(this.value==='All'){
+          return notes
+        }else{
+          notes=notes.filter((note)=>note.tech===this.value)
+          return notes
+        }
+      }
       function mostrar(x){
         
         const matchArray=encontrar(this.value,notes);
@@ -59,5 +69,7 @@ let student = JSON.parse(rawdata);
         
 const seArchInput=document.querySelector('.search');
 const suggestions=document.querySelector('.suggestions');
+const filter=document.querySelector('#noteTechFilter2');
 seArchInput.addEventListener('change',mostrar)
 seArchInput.addEventListener('keyup',mostrar)
+filter.addEventListener('change',filtrar)

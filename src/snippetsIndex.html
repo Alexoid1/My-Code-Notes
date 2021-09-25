@@ -11,8 +11,22 @@
       
       
       <form class="search-form">
-        <a href="./snippetform.html" class="addnotes" role="button">Añadir Code Snippet</a>
-        <a href="./index.html" class="addnotes" role="button">Notas</a>
+        <div class="linkCont">
+          <a href="./snippetform.html" class="addnotes" role="button">Añadir Snippet</a>
+          <a href="./index.html" class="addnotes" role="button">Notas</a>
+          <select name="tech" id="noteTechFilter2" class="addnotes" >
+            <option value="All">All</option>
+              <option value="HTML">HTML</option>
+              <option value="JavaScript">JavaScript</option>
+              <option value="Node">Node</option>
+              <option value="Ruby">Ruby</option>
+              <option value="Ruby on Rails">Ruby on Rails</option>
+              <option value="TypeScript">TypeScript</option>
+              <option value="Docker">Docker</option>
+              <option value="Shell">Shell</option>
+              <option value="SQL">SQL</option>
+          </select>
+        </div>
         <input type="text" class="search" placeholder="My Code Snippets">
         <ul class="suggestions">
           <li>Code Snippets</li>

@@ -74,8 +74,12 @@ input.search {
   padding: 20px;
   transition: background 0.2s;
   Overflow-y:scroll;
-  
-  
+}
+
+.linkCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 
