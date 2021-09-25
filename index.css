@@ -36,6 +36,12 @@ input.search {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
 }
 
+.linkCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .addnotes {
   margin: 0;
   padding: 10px;

@@ -1,20 +1,24 @@
-const tasks="https://gist.githubusercontent.com/Alexoid1/84560fde3e1f61f288d469588a30e663/raw/c2d6b17325ad51b597470a5333190a9c9a4014bc/tasks.json"
+const tasks="https://gist.githubusercontent.com/Alexoid1/e4abea36f901830e1fd0f975ade2574b/raw/3407f2a4eb839e106b87b24d39c5c59877aa0dc4/snnipets.json"
 let notes = [];
-fetch(tasks).then(blop => blop.json()).then(data => notes.push(...data))
-function encontrar(palabra, notes){
-  return notes.filter(function(x){//filtro en el array de objetos notas
-      const regex= new RegExp(palabra,'gi')
-      return x.search.match(regex)||x.title.match(regex)||x.type.match(regex)//city y state son propiedades dentro del objeto cities como ya esta creado tiene sus propiedades
+      fetch(tasks).then(blop => blop.json()).then(data => notes.push(...data))
+      let result=notes
+      function encontrar(palabra, notes){
+        return notes.filter(function(x){//filtro en el array de objetos notas
+            const regex= new RegExp(palabra,'gi')
+            return x.search.match(regex)||x.title.match(regex)||x.type.match(regex)//city y state son propiedades dentro del objeto cities como ya esta creado tiene sus propiedades
 
-  });
-
-
-   
-}
-
-
-      let notes = [];
-      notes.push(...student)
+        });  
+      }
+      function filtrar () {
+        notes.push(...result)
+        if(this.value==='All'){
+          return notes
+        }else{
+          notes=notes.filter((note)=>note.tech===this.value)
+          return notes
+        }
+      }
+      
       function encontrar(palabra, notes){
         return notes.filter(function(x){//filtro en el array de objetos notas
             const regex= new RegExp(palabra,'gi')
@@ -68,5 +72,7 @@ function encontrar(palabra, notes){
         
 const seArchInput=document.querySelector('.search');
 const suggestions=document.querySelector('.suggestions');
+const filter=document.querySelector('#noteTechFilter2');
 seArchInput.addEventListener('change',mostrar)
 seArchInput.addEventListener('keyup',mostrar)
+filter.addEventListener('change',filtrar)
